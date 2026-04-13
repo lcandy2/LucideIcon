@@ -647,6 +647,9 @@ extension LucideIcon {
 	/// `bookmark-minus`
 	static public let bookmark_minus = LucideIcon(identifier: "bookmark-minus")
 
+	/// `bookmark-off`
+	static public let bookmark_off = LucideIcon(identifier: "bookmark-off")
+
 	/// `bookmark-plus`
 	static public let bookmark_plus = LucideIcon(identifier: "bookmark-plus")
 

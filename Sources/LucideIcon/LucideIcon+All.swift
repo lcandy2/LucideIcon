@@ -473,6 +473,9 @@ extension LucideIcon {
 	/// `bell`
 	static public let bell = LucideIcon(identifier: "bell")
 
+	/// `bell-check`
+	static public let bell_check = LucideIcon(identifier: "bell-check")
+
 	/// `bell-dot`
 	static public let bell_dot = LucideIcon(identifier: "bell-dot")
 
@@ -2006,6 +2009,9 @@ extension LucideIcon {
 	/// `folder-archive`
 	static public let folder_archive = LucideIcon(identifier: "folder-archive")
 
+	/// `folder-bookmark`
+	static public let folder_bookmark = LucideIcon(identifier: "folder-bookmark")
+
 	/// `folder-check`
 	static public let folder_check = LucideIcon(identifier: "folder-check")
 
@@ -2399,6 +2405,9 @@ extension LucideIcon {
 	/// `heart-pulse`
 	static public let heart_pulse = LucideIcon(identifier: "heart-pulse")
 
+	/// `heart-x`
+	static public let heart_x = LucideIcon(identifier: "heart-x")
+
 	/// `heater`
 	static public let heater = LucideIcon(identifier: "heater")
 
@@ -2590,6 +2599,9 @@ extension LucideIcon {
 
 	/// `layers-2`
 	static public let layers_2 = LucideIcon(identifier: "layers-2")
+
+	/// `layers-minus`
+	static public let layers_minus = LucideIcon(identifier: "layers-minus")
 
 	/// `layers-plus`
 	static public let layers_plus = LucideIcon(identifier: "layers-plus")
@@ -4600,6 +4612,9 @@ extension LucideIcon {
 
 	/// `tickets-plane`
 	static public let tickets_plane = LucideIcon(identifier: "tickets-plane")
+
+	/// `timeline`
+	static public let timeline = LucideIcon(identifier: "timeline")
 
 	/// `timer`
 	static public let timer = LucideIcon(identifier: "timer")

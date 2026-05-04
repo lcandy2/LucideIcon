@@ -299,6 +299,9 @@ extension LucideIcon {
 	/// `asterisk`
 	static public let asterisk = LucideIcon(identifier: "asterisk")
 
+	/// `astroid`
+	static public let astroid = LucideIcon(identifier: "astroid")
+
 	/// `at-sign`
 	static public let at_sign = LucideIcon(identifier: "at-sign")
 
@@ -3686,6 +3689,9 @@ extension LucideIcon {
 	/// `repeat-2`
 	static public let repeat_2 = LucideIcon(identifier: "repeat-2")
 
+	/// `repeat-off`
+	static public let repeat_off = LucideIcon(identifier: "repeat-off")
+
 	/// `replace`
 	static public let replace = LucideIcon(identifier: "replace")
 
@@ -4967,17 +4973,20 @@ extension LucideIcon {
 	/// `watch`
 	static public let watch = LucideIcon(identifier: "watch")
 
-	/// `waves`
-	static public let waves = LucideIcon(identifier: "waves")
-
 	/// `waves-arrow-down`
 	static public let waves_arrow_down = LucideIcon(identifier: "waves-arrow-down")
 
 	/// `waves-arrow-up`
 	static public let waves_arrow_up = LucideIcon(identifier: "waves-arrow-up")
 
+	/// `waves-horizontal`
+	static public let waves_horizontal = LucideIcon(identifier: "waves-horizontal")
+
 	/// `waves-ladder`
 	static public let waves_ladder = LucideIcon(identifier: "waves-ladder")
+
+	/// `waves-vertical`
+	static public let waves_vertical = LucideIcon(identifier: "waves-vertical")
 
 	/// `waypoints`
 	static public let waypoints = LucideIcon(identifier: "waypoints")

@@ -536,6 +536,9 @@ extension LucideIcon {
 	/// `blend`
 	static public let blend = LucideIcon(identifier: "blend")
 
+	/// `blender`
+	static public let blender = LucideIcon(identifier: "blender")
+
 	/// `blinds`
 	static public let blinds = LucideIcon(identifier: "blinds")
 
@@ -724,6 +727,9 @@ extension LucideIcon {
 
 	/// `bring-to-front`
 	static public let bring_to_front = LucideIcon(identifier: "bring-to-front")
+
+	/// `broccoli`
+	static public let broccoli = LucideIcon(identifier: "broccoli")
 
 	/// `brush`
 	static public let brush = LucideIcon(identifier: "brush")
@@ -4402,6 +4408,24 @@ extension LucideIcon {
 
 	/// `sticky-note`
 	static public let sticky_note = LucideIcon(identifier: "sticky-note")
+
+	/// `sticky-note-check`
+	static public let sticky_note_check = LucideIcon(identifier: "sticky-note-check")
+
+	/// `sticky-note-minus`
+	static public let sticky_note_minus = LucideIcon(identifier: "sticky-note-minus")
+
+	/// `sticky-note-off`
+	static public let sticky_note_off = LucideIcon(identifier: "sticky-note-off")
+
+	/// `sticky-note-plus`
+	static public let sticky_note_plus = LucideIcon(identifier: "sticky-note-plus")
+
+	/// `sticky-note-x`
+	static public let sticky_note_x = LucideIcon(identifier: "sticky-note-x")
+
+	/// `sticky-notes`
+	static public let sticky_notes = LucideIcon(identifier: "sticky-notes")
 
 	/// `stone`
 	static public let stone = LucideIcon(identifier: "stone")

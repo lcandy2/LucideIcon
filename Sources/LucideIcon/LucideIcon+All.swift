@@ -2243,6 +2243,9 @@ extension LucideIcon {
 	/// `globe`
 	static public let globe = LucideIcon(identifier: "globe")
 
+	/// `globe-check`
+	static public let globe_check = LucideIcon(identifier: "globe-check")
+
 	/// `globe-lock`
 	static public let globe_lock = LucideIcon(identifier: "globe-lock")
 
@@ -3371,6 +3374,9 @@ extension LucideIcon {
 	/// `paperclip`
 	static public let paperclip = LucideIcon(identifier: "paperclip")
 
+	/// `parasol`
+	static public let parasol = LucideIcon(identifier: "parasol")
+
 	/// `parentheses`
 	static public let parentheses = LucideIcon(identifier: "parentheses")
 
@@ -3502,6 +3508,9 @@ extension LucideIcon {
 
 	/// `play`
 	static public let play = LucideIcon(identifier: "play")
+
+	/// `play-off`
+	static public let play_off = LucideIcon(identifier: "play-off")
 
 	/// `plug`
 	static public let plug = LucideIcon(identifier: "plug")

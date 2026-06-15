@@ -23,6 +23,9 @@ extension LucideIcon {
 	/// `activity`
 	static public let activity = LucideIcon(identifier: "activity")
 
+	/// `ad`
+	static public let ad = LucideIcon(identifier: "ad")
+
 	/// `air-vent`
 	static public let air_vent = LucideIcon(identifier: "air-vent")
 
@@ -406,6 +409,9 @@ extension LucideIcon {
 
 	/// `banknote-arrow-up`
 	static public let banknote_arrow_up = LucideIcon(identifier: "banknote-arrow-up")
+
+	/// `banknote-check`
+	static public let banknote_check = LucideIcon(identifier: "banknote-check")
 
 	/// `banknote-x`
 	static public let banknote_x = LucideIcon(identifier: "banknote-x")
@@ -1298,6 +1304,12 @@ extension LucideIcon {
 	/// `clock-arrow-down`
 	static public let clock_arrow_down = LucideIcon(identifier: "clock-arrow-down")
 
+	/// `clock-arrow-left`
+	static public let clock_arrow_left = LucideIcon(identifier: "clock-arrow-left")
+
+	/// `clock-arrow-right`
+	static public let clock_arrow_right = LucideIcon(identifier: "clock-arrow-right")
+
 	/// `clock-arrow-up`
 	static public let clock_arrow_up = LucideIcon(identifier: "clock-arrow-up")
 
@@ -1744,6 +1756,9 @@ extension LucideIcon {
 
 	/// `eye-closed`
 	static public let eye_closed = LucideIcon(identifier: "eye-closed")
+
+	/// `eye-dashed`
+	static public let eye_dashed = LucideIcon(identifier: "eye-dashed")
 
 	/// `eye-off`
 	static public let eye_off = LucideIcon(identifier: "eye-off")
@@ -2735,6 +2750,12 @@ extension LucideIcon {
 	/// `list-restart`
 	static public let list_restart = LucideIcon(identifier: "list-restart")
 
+	/// `list-sort-ascending`
+	static public let list_sort_ascending = LucideIcon(identifier: "list-sort-ascending")
+
+	/// `list-sort-descending`
+	static public let list_sort_descending = LucideIcon(identifier: "list-sort-descending")
+
 	/// `list-start`
 	static public let list_start = LucideIcon(identifier: "list-start")
 
@@ -3530,6 +3551,9 @@ extension LucideIcon {
 	/// `podcast`
 	static public let podcast = LucideIcon(identifier: "podcast")
 
+	/// `podium`
+	static public let podium = LucideIcon(identifier: "podium")
+
 	/// `pointer`
 	static public let pointer = LucideIcon(identifier: "pointer")
 
@@ -3812,8 +3836,17 @@ extension LucideIcon {
 	/// `save-all`
 	static public let save_all = LucideIcon(identifier: "save-all")
 
+	/// `save-check`
+	static public let save_check = LucideIcon(identifier: "save-check")
+
 	/// `save-off`
 	static public let save_off = LucideIcon(identifier: "save-off")
+
+	/// `save-pen`
+	static public let save_pen = LucideIcon(identifier: "save-pen")
+
+	/// `save-plus`
+	static public let save_plus = LucideIcon(identifier: "save-plus")
 
 	/// `scale`
 	static public let scale = LucideIcon(identifier: "scale")
@@ -4397,11 +4430,23 @@ extension LucideIcon {
 	/// `star`
 	static public let star = LucideIcon(identifier: "star")
 
+	/// `star-check`
+	static public let star_check = LucideIcon(identifier: "star-check")
+
 	/// `star-half`
 	static public let star_half = LucideIcon(identifier: "star-half")
 
+	/// `star-minus`
+	static public let star_minus = LucideIcon(identifier: "star-minus")
+
 	/// `star-off`
 	static public let star_off = LucideIcon(identifier: "star-off")
+
+	/// `star-plus`
+	static public let star_plus = LucideIcon(identifier: "star-plus")
+
+	/// `star-x`
+	static public let star_x = LucideIcon(identifier: "star-x")
 
 	/// `step-back`
 	static public let step_back = LucideIcon(identifier: "step-back")
@@ -4453,6 +4498,9 @@ extension LucideIcon {
 
 	/// `subscript`
 	static public let `subscript` = LucideIcon(identifier: "subscript")
+
+	/// `summary`
+	static public let summary = LucideIcon(identifier: "summary")
 
 	/// `sun`
 	static public let sun = LucideIcon(identifier: "sun")
@@ -4531,6 +4579,12 @@ extension LucideIcon {
 
 	/// `tag`
 	static public let tag = LucideIcon(identifier: "tag")
+
+	/// `tag-plus`
+	static public let tag_plus = LucideIcon(identifier: "tag-plus")
+
+	/// `tag-x`
+	static public let tag_x = LucideIcon(identifier: "tag-x")
 
 	/// `tags`
 	static public let tags = LucideIcon(identifier: "tags")
@@ -4865,6 +4919,9 @@ extension LucideIcon {
 	/// `user-round`
 	static public let user_round = LucideIcon(identifier: "user-round")
 
+	/// `user-round-arrow-left`
+	static public let user_round_arrow_left = LucideIcon(identifier: "user-round-arrow-left")
+
 	/// `user-round-check`
 	static public let user_round_check = LucideIcon(identifier: "user-round-check")
 
@@ -5027,6 +5084,9 @@ extension LucideIcon {
 	/// `webcam`
 	static public let webcam = LucideIcon(identifier: "webcam")
 
+	/// `webcam-off`
+	static public let webcam_off = LucideIcon(identifier: "webcam-off")
+
 	/// `webhook`
 	static public let webhook = LucideIcon(identifier: "webhook")
 
@@ -5092,6 +5152,9 @@ extension LucideIcon {
 
 	/// `wrench`
 	static public let wrench = LucideIcon(identifier: "wrench")
+
+	/// `wrench-off`
+	static public let wrench_off = LucideIcon(identifier: "wrench-off")
 
 	/// `x`
 	static public let x = LucideIcon(identifier: "x")

@@ -575,6 +575,9 @@ extension LucideIcon {
 	/// `bone`
 	static public let bone = LucideIcon(identifier: "bone")
 
+	/// `bone-fracture`
+	static public let bone_fracture = LucideIcon(identifier: "bone-fracture")
+
 	/// `book`
 	static public let book = LucideIcon(identifier: "book")
 
@@ -1553,11 +1556,29 @@ extension LucideIcon {
 	/// `database`
 	static public let database = LucideIcon(identifier: "database")
 
+	/// `database-arrow-down`
+	static public let database_arrow_down = LucideIcon(identifier: "database-arrow-down")
+
+	/// `database-arrow-up`
+	static public let database_arrow_up = LucideIcon(identifier: "database-arrow-up")
+
 	/// `database-backup`
 	static public let database_backup = LucideIcon(identifier: "database-backup")
 
+	/// `database-check`
+	static public let database_check = LucideIcon(identifier: "database-check")
+
+	/// `database-minus`
+	static public let database_minus = LucideIcon(identifier: "database-minus")
+
+	/// `database-plus`
+	static public let database_plus = LucideIcon(identifier: "database-plus")
+
 	/// `database-search`
 	static public let database_search = LucideIcon(identifier: "database-search")
+
+	/// `database-x`
+	static public let database_x = LucideIcon(identifier: "database-x")
 
 	/// `database-zap`
 	static public let database_zap = LucideIcon(identifier: "database-zap")
@@ -3439,6 +3460,9 @@ extension LucideIcon {
 
 	/// `pencil-ruler`
 	static public let pencil_ruler = LucideIcon(identifier: "pencil-ruler")
+
+	/// `pencil-sparkles`
+	static public let pencil_sparkles = LucideIcon(identifier: "pencil-sparkles")
 
 	/// `pentagon`
 	static public let pentagon = LucideIcon(identifier: "pentagon")

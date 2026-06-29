@@ -3473,6 +3473,9 @@ extension LucideIcon {
 	/// `person-standing`
 	static public let person_standing = LucideIcon(identifier: "person-standing")
 
+	/// `phi`
+	static public let phi = LucideIcon(identifier: "phi")
+
 	/// `philippine-peso`
 	static public let philippine_peso = LucideIcon(identifier: "philippine-peso")
 

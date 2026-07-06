@@ -3413,6 +3413,9 @@ extension LucideIcon {
 	/// `panels-top-left`
 	static public let panels_top_left = LucideIcon(identifier: "panels-top-left")
 
+	/// `paper-bag`
+	static public let paper_bag = LucideIcon(identifier: "paper-bag")
+
 	/// `paperclip`
 	static public let paperclip = LucideIcon(identifier: "paperclip")
 

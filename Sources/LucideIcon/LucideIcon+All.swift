@@ -1148,6 +1148,9 @@ extension LucideIcon {
 	/// `circle-equal`
 	static public let circle_equal = LucideIcon(identifier: "circle-equal")
 
+	/// `circle-euro`
+	static public let circle_euro = LucideIcon(identifier: "circle-euro")
+
 	/// `circle-fading-arrow-up`
 	static public let circle_fading_arrow_up = LucideIcon(identifier: "circle-fading-arrow-up")
 
@@ -3985,6 +3988,9 @@ extension LucideIcon {
 
 	/// `server-off`
 	static public let server_off = LucideIcon(identifier: "server-off")
+
+	/// `server-plus`
+	static public let server_plus = LucideIcon(identifier: "server-plus")
 
 	/// `settings`
 	static public let settings = LucideIcon(identifier: "settings")

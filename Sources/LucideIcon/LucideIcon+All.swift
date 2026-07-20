@@ -3896,6 +3896,9 @@ extension LucideIcon {
 	/// `scan-barcode`
 	static public let scan_barcode = LucideIcon(identifier: "scan-barcode")
 
+	/// `scan-box`
+	static public let scan_box = LucideIcon(identifier: "scan-box")
+
 	/// `scan-eye`
 	static public let scan_eye = LucideIcon(identifier: "scan-eye")
 

@@ -2471,9 +2471,6 @@ extension LucideIcon {
 	/// `highlighter`
 	static public let highlighter = LucideIcon(identifier: "highlighter")
 
-	/// `history`
-	static public let history = LucideIcon(identifier: "history")
-
 	/// `hop`
 	static public let hop = LucideIcon(identifier: "hop")
 
@@ -2659,6 +2656,9 @@ extension LucideIcon {
 
 	/// `layout-dashboard`
 	static public let layout_dashboard = LucideIcon(identifier: "layout-dashboard")
+
+	/// `layout-freeform`
+	static public let layout_freeform = LucideIcon(identifier: "layout-freeform")
 
 	/// `layout-grid`
 	static public let layout_grid = LucideIcon(identifier: "layout-grid")
@@ -3059,8 +3059,14 @@ extension LucideIcon {
 	/// `mic`
 	static public let mic = LucideIcon(identifier: "mic")
 
+	/// `mic-audio-lines`
+	static public let mic_audio_lines = LucideIcon(identifier: "mic-audio-lines")
+
 	/// `mic-off`
 	static public let mic_off = LucideIcon(identifier: "mic-off")
+
+	/// `mic-signal`
+	static public let mic_signal = LucideIcon(identifier: "mic-signal")
 
 	/// `mic-vocal`
 	static public let mic_vocal = LucideIcon(identifier: "mic-vocal")
@@ -3145,6 +3151,9 @@ extension LucideIcon {
 
 	/// `moon-star`
 	static public let moon_star = LucideIcon(identifier: "moon-star")
+
+	/// `mosque`
+	static public let mosque = LucideIcon(identifier: "mosque")
 
 	/// `motorbike`
 	static public let motorbike = LucideIcon(identifier: "motorbike")
@@ -3581,9 +3590,6 @@ extension LucideIcon {
 	/// `pocket-knife`
 	static public let pocket_knife = LucideIcon(identifier: "pocket-knife")
 
-	/// `podcast`
-	static public let podcast = LucideIcon(identifier: "podcast")
-
 	/// `podium`
 	static public let podium = LucideIcon(identifier: "podium")
 
@@ -3803,6 +3809,9 @@ extension LucideIcon {
 	/// `rotate-ccw`
 	static public let rotate_ccw = LucideIcon(identifier: "rotate-ccw")
 
+	/// `rotate-ccw-clock`
+	static public let rotate_ccw_clock = LucideIcon(identifier: "rotate-ccw-clock")
+
 	/// `rotate-ccw-key`
 	static public let rotate_ccw_key = LucideIcon(identifier: "rotate-ccw-key")
 
@@ -3811,6 +3820,9 @@ extension LucideIcon {
 
 	/// `rotate-cw`
 	static public let rotate_cw = LucideIcon(identifier: "rotate-cw")
+
+	/// `rotate-cw-fading-clock`
+	static public let rotate_cw_fading_clock = LucideIcon(identifier: "rotate-cw-fading-clock")
 
 	/// `rotate-cw-square`
 	static public let rotate_cw_square = LucideIcon(identifier: "rotate-cw-square")
@@ -3916,6 +3928,9 @@ extension LucideIcon {
 
 	/// `scan-search`
 	static public let scan_search = LucideIcon(identifier: "scan-search")
+
+	/// `scan-square`
+	static public let scan_square = LucideIcon(identifier: "scan-square")
 
 	/// `scan-text`
 	static public let scan_text = LucideIcon(identifier: "scan-text")
@@ -4042,6 +4057,9 @@ extension LucideIcon {
 
 	/// `shield-half`
 	static public let shield_half = LucideIcon(identifier: "shield-half")
+
+	/// `shield-keyhole`
+	static public let shield_keyhole = LucideIcon(identifier: "shield-keyhole")
 
 	/// `shield-minus`
 	static public let shield_minus = LucideIcon(identifier: "shield-minus")
@@ -4366,6 +4384,9 @@ extension LucideIcon {
 
 	/// `square-mouse-pointer`
 	static public let square_mouse_pointer = LucideIcon(identifier: "square-mouse-pointer")
+
+	/// `square-off`
+	static public let square_off = LucideIcon(identifier: "square-off")
 
 	/// `square-parking`
 	static public let square_parking = LucideIcon(identifier: "square-parking")
@@ -4987,6 +5008,9 @@ extension LucideIcon {
 
 	/// `user-search`
 	static public let user_search = LucideIcon(identifier: "user-search")
+
+	/// `user-shield`
+	static public let user_shield = LucideIcon(identifier: "user-shield")
 
 	/// `user-star`
 	static public let user_star = LucideIcon(identifier: "user-star")

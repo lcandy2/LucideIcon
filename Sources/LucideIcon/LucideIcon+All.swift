@@ -134,11 +134,8 @@ extension LucideIcon {
 	/// `anchor`
 	static public let anchor = LucideIcon(identifier: "anchor")
 
-	/// `angry`
-	static public let angry = LucideIcon(identifier: "angry")
-
-	/// `annoyed`
-	static public let annoyed = LucideIcon(identifier: "annoyed")
+	/// `angle`
+	static public let angle = LucideIcon(identifier: "angle")
 
 	/// `antenna`
 	static public let antenna = LucideIcon(identifier: "antenna")
@@ -313,6 +310,9 @@ extension LucideIcon {
 
 	/// `audio-lines`
 	static public let audio_lines = LucideIcon(identifier: "audio-lines")
+
+	/// `audio-lines-x`
+	static public let audio_lines_x = LucideIcon(identifier: "audio-lines-x")
 
 	/// `audio-waveform`
 	static public let audio_waveform = LucideIcon(identifier: "audio-waveform")
@@ -740,6 +740,12 @@ extension LucideIcon {
 	/// `broccoli`
 	static public let broccoli = LucideIcon(identifier: "broccoli")
 
+	/// `broom`
+	static public let broom = LucideIcon(identifier: "broom")
+
+	/// `broom-sparkles`
+	static public let broom_sparkles = LucideIcon(identifier: "broom-sparkles")
+
 	/// `brush`
 	static public let brush = LucideIcon(identifier: "brush")
 
@@ -880,6 +886,9 @@ extension LucideIcon {
 
 	/// `car`
 	static public let car = LucideIcon(identifier: "car")
+
+	/// `car-battery`
+	static public let car_battery = LucideIcon(identifier: "car-battery")
 
 	/// `car-front`
 	static public let car_front = LucideIcon(identifier: "car-front")
@@ -1739,6 +1748,9 @@ extension LucideIcon {
 	/// `egg-off`
 	static public let egg_off = LucideIcon(identifier: "egg-off")
 
+	/// `eject`
+	static public let eject = LucideIcon(identifier: "eject")
+
 	/// `ellipse`
 	static public let ellipse = LucideIcon(identifier: "ellipse")
 
@@ -1786,6 +1798,27 @@ extension LucideIcon {
 
 	/// `eye-off`
 	static public let eye_off = LucideIcon(identifier: "eye-off")
+
+	/// `face-angry`
+	static public let face_angry = LucideIcon(identifier: "face-angry")
+
+	/// `face-expressionless`
+	static public let face_expressionless = LucideIcon(identifier: "face-expressionless")
+
+	/// `face-grinning`
+	static public let face_grinning = LucideIcon(identifier: "face-grinning")
+
+	/// `face-neutral`
+	static public let face_neutral = LucideIcon(identifier: "face-neutral")
+
+	/// `face-slightly-frowning`
+	static public let face_slightly_frowning = LucideIcon(identifier: "face-slightly-frowning")
+
+	/// `face-slightly-smiling`
+	static public let face_slightly_smiling = LucideIcon(identifier: "face-slightly-smiling")
+
+	/// `face-slightly-smiling-plus`
+	static public let face_slightly_smiling_plus = LucideIcon(identifier: "face-slightly-smiling-plus")
 
 	/// `factory`
 	static public let factory = LucideIcon(identifier: "factory")
@@ -2161,9 +2194,6 @@ extension LucideIcon {
 
 	/// `frame`
 	static public let frame = LucideIcon(identifier: "frame")
-
-	/// `frown`
-	static public let frown = LucideIcon(identifier: "frown")
 
 	/// `fuel`
 	static public let fuel = LucideIcon(identifier: "fuel")
@@ -2639,14 +2669,23 @@ extension LucideIcon {
 	/// `lasso-select`
 	static public let lasso_select = LucideIcon(identifier: "lasso-select")
 
-	/// `laugh`
-	static public let laugh = LucideIcon(identifier: "laugh")
+	/// `layer-arrow-down`
+	static public let layer_arrow_down = LucideIcon(identifier: "layer-arrow-down")
+
+	/// `layer-arrow-up`
+	static public let layer_arrow_up = LucideIcon(identifier: "layer-arrow-up")
 
 	/// `layers`
 	static public let layers = LucideIcon(identifier: "layers")
 
 	/// `layers-2`
 	static public let layers_2 = LucideIcon(identifier: "layers-2")
+
+	/// `layers-arrow-down`
+	static public let layers_arrow_down = LucideIcon(identifier: "layers-arrow-down")
+
+	/// `layers-arrow-up`
+	static public let layers_arrow_up = LucideIcon(identifier: "layers-arrow-up")
 
 	/// `layers-minus`
 	static public let layers_minus = LucideIcon(identifier: "layers-minus")
@@ -2846,6 +2885,9 @@ extension LucideIcon {
 	/// `mail`
 	static public let mail = LucideIcon(identifier: "mail")
 
+	/// `mail-badge`
+	static public let mail_badge = LucideIcon(identifier: "mail-badge")
+
 	/// `mail-check`
 	static public let mail_check = LucideIcon(identifier: "mail-check")
 
@@ -2950,9 +2992,6 @@ extension LucideIcon {
 
 	/// `megaphone-off`
 	static public let megaphone_off = LucideIcon(identifier: "megaphone-off")
-
-	/// `meh`
-	static public let meh = LucideIcon(identifier: "meh")
 
 	/// `memory-stick`
 	static public let memory_stick = LucideIcon(identifier: "memory-stick")
@@ -4061,6 +4100,9 @@ extension LucideIcon {
 	/// `shield-keyhole`
 	static public let shield_keyhole = LucideIcon(identifier: "shield-keyhole")
 
+	/// `shield-lock`
+	static public let shield_lock = LucideIcon(identifier: "shield-lock")
+
 	/// `shield-minus`
 	static public let shield_minus = LucideIcon(identifier: "shield-minus")
 
@@ -4177,12 +4219,6 @@ extension LucideIcon {
 
 	/// `smartphone-nfc`
 	static public let smartphone_nfc = LucideIcon(identifier: "smartphone-nfc")
-
-	/// `smile`
-	static public let smile = LucideIcon(identifier: "smile")
-
-	/// `smile-plus`
-	static public let smile_plus = LucideIcon(identifier: "smile-plus")
 
 	/// `snail`
 	static public let snail = LucideIcon(identifier: "snail")

@@ -311,6 +311,9 @@ extension LucideIcon {
 	/// `audio-lines`
 	static public let audio_lines = LucideIcon(identifier: "audio-lines")
 
+	/// `audio-lines-off`
+	static public let audio_lines_off = LucideIcon(identifier: "audio-lines-off")
+
 	/// `audio-lines-x`
 	static public let audio_lines_x = LucideIcon(identifier: "audio-lines-x")
 
@@ -2780,6 +2783,9 @@ extension LucideIcon {
 	/// `list-chevrons-up-down`
 	static public let list_chevrons_up_down = LucideIcon(identifier: "list-chevrons-up-down")
 
+	/// `list-clock`
+	static public let list_clock = LucideIcon(identifier: "list-clock")
+
 	/// `list-collapse`
 	static public let list_collapse = LucideIcon(identifier: "list-collapse")
 
@@ -3119,6 +3125,9 @@ extension LucideIcon {
 	/// `microwave`
 	static public let microwave = LucideIcon(identifier: "microwave")
 
+	/// `midi-port`
+	static public let midi_port = LucideIcon(identifier: "midi-port")
+
 	/// `milestone`
 	static public let milestone = LucideIcon(identifier: "milestone")
 
@@ -3190,6 +3199,12 @@ extension LucideIcon {
 
 	/// `moon-star`
 	static public let moon_star = LucideIcon(identifier: "moon-star")
+
+	/// `mop`
+	static public let mop = LucideIcon(identifier: "mop")
+
+	/// `mop-sparkles`
+	static public let mop_sparkles = LucideIcon(identifier: "mop-sparkles")
 
 	/// `mosque`
 	static public let mosque = LucideIcon(identifier: "mosque")
@@ -4391,6 +4406,9 @@ extension LucideIcon {
 	/// `square-dashed-top-solid`
 	static public let square_dashed_top_solid = LucideIcon(identifier: "square-dashed-top-solid")
 
+	/// `square-dimensions`
+	static public let square_dimensions = LucideIcon(identifier: "square-dimensions")
+
 	/// `square-divide`
 	static public let square_divide = LucideIcon(identifier: "square-divide")
 
@@ -4489,6 +4507,9 @@ extension LucideIcon {
 
 	/// `square-terminal`
 	static public let square_terminal = LucideIcon(identifier: "square-terminal")
+
+	/// `square-text`
+	static public let square_text = LucideIcon(identifier: "square-text")
 
 	/// `square-user`
 	static public let square_user = LucideIcon(identifier: "square-user")
@@ -4987,6 +5008,9 @@ extension LucideIcon {
 
 	/// `usb`
 	static public let usb = LucideIcon(identifier: "usb")
+
+	/// `usb-c-port`
+	static public let usb_c_port = LucideIcon(identifier: "usb-c-port")
 
 	/// `user`
 	static public let user = LucideIcon(identifier: "user")

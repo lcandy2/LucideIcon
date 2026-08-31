@@ -1538,6 +1538,18 @@ extension LucideIcon {
 	/// `credit-card`
 	static public let credit_card = LucideIcon(identifier: "credit-card")
 
+	/// `credit-card-check`
+	static public let credit_card_check = LucideIcon(identifier: "credit-card-check")
+
+	/// `credit-card-minus`
+	static public let credit_card_minus = LucideIcon(identifier: "credit-card-minus")
+
+	/// `credit-card-plus`
+	static public let credit_card_plus = LucideIcon(identifier: "credit-card-plus")
+
+	/// `credit-card-x`
+	static public let credit_card_x = LucideIcon(identifier: "credit-card-x")
+
 	/// `croissant`
 	static public let croissant = LucideIcon(identifier: "croissant")
 
@@ -2212,6 +2224,9 @@ extension LucideIcon {
 
 	/// `funnel-x`
 	static public let funnel_x = LucideIcon(identifier: "funnel-x")
+
+	/// `galaxy`
+	static public let galaxy = LucideIcon(identifier: "galaxy")
 
 	/// `gallery-horizontal`
 	static public let gallery_horizontal = LucideIcon(identifier: "gallery-horizontal")
@@ -2897,6 +2912,9 @@ extension LucideIcon {
 	/// `mail-check`
 	static public let mail_check = LucideIcon(identifier: "mail-check")
 
+	/// `mail-clock`
+	static public let mail_clock = LucideIcon(identifier: "mail-clock")
+
 	/// `mail-minus`
 	static public let mail_minus = LucideIcon(identifier: "mail-minus")
 
@@ -3019,6 +3037,9 @@ extension LucideIcon {
 
 	/// `message-circle-dashed`
 	static public let message_circle_dashed = LucideIcon(identifier: "message-circle-dashed")
+
+	/// `message-circle-dashed-check`
+	static public let message_circle_dashed_check = LucideIcon(identifier: "message-circle-dashed-check")
 
 	/// `message-circle-heart`
 	static public let message_circle_heart = LucideIcon(identifier: "message-circle-heart")
@@ -3629,6 +3650,15 @@ extension LucideIcon {
 	/// `play-off`
 	static public let play_off = LucideIcon(identifier: "play-off")
 
+	/// `playing-card`
+	static public let playing_card = LucideIcon(identifier: "playing-card")
+
+	/// `playing-cards`
+	static public let playing_cards = LucideIcon(identifier: "playing-cards")
+
+	/// `playing-cards-fan`
+	static public let playing_cards_fan = LucideIcon(identifier: "playing-cards-fan")
+
 	/// `plug`
 	static public let plug = LucideIcon(identifier: "plug")
 
@@ -3844,6 +3874,12 @@ extension LucideIcon {
 
 	/// `road`
 	static public let road = LucideIcon(identifier: "road")
+
+	/// `robot-arm`
+	static public let robot_arm = LucideIcon(identifier: "robot-arm")
+
+	/// `robot-vacuum`
+	static public let robot_vacuum = LucideIcon(identifier: "robot-vacuum")
 
 	/// `rocket`
 	static public let rocket = LucideIcon(identifier: "rocket")
@@ -4138,6 +4174,9 @@ extension LucideIcon {
 
 	/// `ship`
 	static public let ship = LucideIcon(identifier: "ship")
+
+	/// `ship-cargo`
+	static public let ship_cargo = LucideIcon(identifier: "ship-cargo")
 
 	/// `ship-wheel`
 	static public let ship_wheel = LucideIcon(identifier: "ship-wheel")
@@ -4876,6 +4915,9 @@ extension LucideIcon {
 
 	/// `traffic-cone`
 	static public let traffic_cone = LucideIcon(identifier: "traffic-cone")
+
+	/// `trailer`
+	static public let trailer = LucideIcon(identifier: "trailer")
 
 	/// `train-front`
 	static public let train_front = LucideIcon(identifier: "train-front")

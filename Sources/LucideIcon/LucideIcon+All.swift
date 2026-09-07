@@ -725,6 +725,9 @@ extension LucideIcon {
 	/// `brick-wall-shield`
 	static public let brick_wall_shield = LucideIcon(identifier: "brick-wall-shield")
 
+	/// `bridge`
+	static public let bridge = LucideIcon(identifier: "bridge")
+
 	/// `briefcase`
 	static public let briefcase = LucideIcon(identifier: "briefcase")
 
@@ -865,6 +868,12 @@ extension LucideIcon {
 
 	/// `camera-off`
 	static public let camera_off = LucideIcon(identifier: "camera-off")
+
+	/// `can`
+	static public let can = LucideIcon(identifier: "can")
+
+	/// `can-soda`
+	static public let can_soda = LucideIcon(identifier: "can-soda")
 
 	/// `candy`
 	static public let candy = LucideIcon(identifier: "candy")
@@ -1141,6 +1150,9 @@ extension LucideIcon {
 
 	/// `circle-dashed`
 	static public let circle_dashed = LucideIcon(identifier: "circle-dashed")
+
+	/// `circle-dashed-check`
+	static public let circle_dashed_check = LucideIcon(identifier: "circle-dashed-check")
 
 	/// `circle-divide`
 	static public let circle_divide = LucideIcon(identifier: "circle-divide")
@@ -1547,6 +1559,9 @@ extension LucideIcon {
 	/// `credit-card-plus`
 	static public let credit_card_plus = LucideIcon(identifier: "credit-card-plus")
 
+	/// `credit-card-reader`
+	static public let credit_card_reader = LucideIcon(identifier: "credit-card-reader")
+
 	/// `credit-card-x`
 	static public let credit_card_x = LucideIcon(identifier: "credit-card-x")
 
@@ -1691,6 +1706,9 @@ extension LucideIcon {
 	/// `dollar-sign`
 	static public let dollar_sign = LucideIcon(identifier: "dollar-sign")
 
+	/// `dome`
+	static public let dome = LucideIcon(identifier: "dome")
+
 	/// `donut`
 	static public let donut = LucideIcon(identifier: "donut")
 
@@ -1702,6 +1720,9 @@ extension LucideIcon {
 
 	/// `door-open`
 	static public let door_open = LucideIcon(identifier: "door-open")
+
+	/// `door-stairwell`
+	static public let door_stairwell = LucideIcon(identifier: "door-stairwell")
 
 	/// `dot`
 	static public let dot = LucideIcon(identifier: "dot")
@@ -1775,11 +1796,17 @@ extension LucideIcon {
 	/// `ellipsis-vertical`
 	static public let ellipsis_vertical = LucideIcon(identifier: "ellipsis-vertical")
 
+	/// `engine`
+	static public let engine = LucideIcon(identifier: "engine")
+
 	/// `equal`
 	static public let equal = LucideIcon(identifier: "equal")
 
 	/// `equal-approximately`
 	static public let equal_approximately = LucideIcon(identifier: "equal-approximately")
+
+	/// `equal-approximately-not`
+	static public let equal_approximately_not = LucideIcon(identifier: "equal-approximately-not")
 
 	/// `equal-not`
 	static public let equal_not = LucideIcon(identifier: "equal-not")
@@ -2252,6 +2279,12 @@ extension LucideIcon {
 	/// `gamepad-directional`
 	static public let gamepad_directional = LucideIcon(identifier: "gamepad-directional")
 
+	/// `gap-horizontal`
+	static public let gap_horizontal = LucideIcon(identifier: "gap-horizontal")
+
+	/// `gap-vertical`
+	static public let gap_vertical = LucideIcon(identifier: "gap-vertical")
+
 	/// `gauge`
 	static public let gauge = LucideIcon(identifier: "gauge")
 
@@ -2263,6 +2296,12 @@ extension LucideIcon {
 
 	/// `georgian-lari`
 	static public let georgian_lari = LucideIcon(identifier: "georgian-lari")
+
+	/// `germ`
+	static public let germ = LucideIcon(identifier: "germ")
+
+	/// `germ-off`
+	static public let germ_off = LucideIcon(identifier: "germ-off")
 
 	/// `ghost`
 	static public let ghost = LucideIcon(identifier: "ghost")
@@ -2765,6 +2804,9 @@ extension LucideIcon {
 	/// `lightbulb-off`
 	static public let lightbulb_off = LucideIcon(identifier: "lightbulb-off")
 
+	/// `lighthouse`
+	static public let lighthouse = LucideIcon(identifier: "lighthouse")
+
 	/// `line-dot-right-horizontal`
 	static public let line_dot_right_horizontal = LucideIcon(identifier: "line-dot-right-horizontal")
 
@@ -2920,6 +2962,9 @@ extension LucideIcon {
 
 	/// `mail-open`
 	static public let mail_open = LucideIcon(identifier: "mail-open")
+
+	/// `mail-pen`
+	static public let mail_pen = LucideIcon(identifier: "mail-pen")
 
 	/// `mail-plus`
 	static public let mail_plus = LucideIcon(identifier: "mail-plus")
@@ -4193,6 +4238,12 @@ extension LucideIcon {
 	/// `shopping-cart`
 	static public let shopping_cart = LucideIcon(identifier: "shopping-cart")
 
+	/// `shopping-cart-minus`
+	static public let shopping_cart_minus = LucideIcon(identifier: "shopping-cart-minus")
+
+	/// `shopping-cart-plus`
+	static public let shopping_cart_plus = LucideIcon(identifier: "shopping-cart-plus")
+
 	/// `shovel`
 	static public let shovel = LucideIcon(identifier: "shovel")
 
@@ -4204,6 +4255,9 @@ extension LucideIcon {
 
 	/// `shrimp`
 	static public let shrimp = LucideIcon(identifier: "shrimp")
+
+	/// `shrimp-off`
+	static public let shrimp_off = LucideIcon(identifier: "shrimp-off")
 
 	/// `shrink`
 	static public let shrink = LucideIcon(identifier: "shrink")
@@ -4456,6 +4510,9 @@ extension LucideIcon {
 
 	/// `square-equal`
 	static public let square_equal = LucideIcon(identifier: "square-equal")
+
+	/// `square-exclamation-point`
+	static public let square_exclamation_point = LucideIcon(identifier: "square-exclamation-point")
 
 	/// `square-function`
 	static public let square_function = LucideIcon(identifier: "square-function")
@@ -4937,8 +4994,8 @@ extension LucideIcon {
 	/// `trash`
 	static public let trash = LucideIcon(identifier: "trash")
 
-	/// `trash-2`
-	static public let trash_2 = LucideIcon(identifier: "trash-2")
+	/// `trash-off`
+	static public let trash_off = LucideIcon(identifier: "trash-off")
 
 	/// `tree-deciduous`
 	static public let tree_deciduous = LucideIcon(identifier: "tree-deciduous")
@@ -5144,6 +5201,9 @@ extension LucideIcon {
 	/// `vault`
 	static public let vault = LucideIcon(identifier: "vault")
 
+	/// `vector-polygon`
+	static public let vector_polygon = LucideIcon(identifier: "vector-polygon")
+
 	/// `vector-square`
 	static public let vector_square = LucideIcon(identifier: "vector-square")
 
@@ -5176,6 +5236,12 @@ extension LucideIcon {
 
 	/// `view`
 	static public let view = LucideIcon(identifier: "view")
+
+	/// `virus`
+	static public let virus = LucideIcon(identifier: "virus")
+
+	/// `virus-off`
+	static public let virus_off = LucideIcon(identifier: "virus-off")
 
 	/// `voicemail`
 	static public let voicemail = LucideIcon(identifier: "voicemail")
@@ -5269,6 +5335,9 @@ extension LucideIcon {
 
 	/// `wheat-off`
 	static public let wheat_off = LucideIcon(identifier: "wheat-off")
+
+	/// `whistle`
+	static public let whistle = LucideIcon(identifier: "whistle")
 
 	/// `whole-word`
 	static public let whole_word = LucideIcon(identifier: "whole-word")

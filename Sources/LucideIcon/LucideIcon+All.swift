@@ -50,9 +50,6 @@ extension LucideIcon {
 	/// `alarm-smoke`
 	static public let alarm_smoke = LucideIcon(identifier: "alarm-smoke")
 
-	/// `album`
-	static public let album = LucideIcon(identifier: "album")
-
 	/// `align-center-horizontal`
 	static public let align_center_horizontal = LucideIcon(identifier: "align-center-horizontal")
 
@@ -593,6 +590,9 @@ extension LucideIcon {
 	/// `book-audio`
 	static public let book_audio = LucideIcon(identifier: "book-audio")
 
+	/// `book-bookmark`
+	static public let book_bookmark = LucideIcon(identifier: "book-bookmark")
+
 	/// `book-check`
 	static public let book_check = LucideIcon(identifier: "book-check")
 
@@ -619,9 +619,6 @@ extension LucideIcon {
 
 	/// `book-lock`
 	static public let book_lock = LucideIcon(identifier: "book-lock")
-
-	/// `book-marked`
-	static public let book_marked = LucideIcon(identifier: "book-marked")
 
 	/// `book-minus`
 	static public let book_minus = LucideIcon(identifier: "book-minus")
@@ -773,8 +770,11 @@ extension LucideIcon {
 	/// `building`
 	static public let building = LucideIcon(identifier: "building")
 
-	/// `building-2`
-	static public let building_2 = LucideIcon(identifier: "building-2")
+	/// `building-complex`
+	static public let building_complex = LucideIcon(identifier: "building-complex")
+
+	/// `building-complex-plus`
+	static public let building_complex_plus = LucideIcon(identifier: "building-complex-plus")
 
 	/// `bus`
 	static public let bus = LucideIcon(identifier: "bus")
@@ -814,6 +814,9 @@ extension LucideIcon {
 
 	/// `calendar-check-2`
 	static public let calendar_check_2 = LucideIcon(identifier: "calendar-check-2")
+
+	/// `calendar-chevrons-right`
+	static public let calendar_chevrons_right = LucideIcon(identifier: "calendar-chevrons-right")
 
 	/// `calendar-clock`
 	static public let calendar_clock = LucideIcon(identifier: "calendar-clock")
@@ -916,6 +919,12 @@ extension LucideIcon {
 
 	/// `carrot`
 	static public let carrot = LucideIcon(identifier: "carrot")
+
+	/// `carton`
+	static public let carton = LucideIcon(identifier: "carton")
+
+	/// `carton-off`
+	static public let carton_off = LucideIcon(identifier: "carton-off")
 
 	/// `case-lower`
 	static public let case_lower = LucideIcon(identifier: "case-lower")
@@ -1252,6 +1261,15 @@ extension LucideIcon {
 
 	/// `clapperboard`
 	static public let clapperboard = LucideIcon(identifier: "clapperboard")
+
+	/// `clef-alto`
+	static public let clef_alto = LucideIcon(identifier: "clef-alto")
+
+	/// `clef-bass`
+	static public let clef_bass = LucideIcon(identifier: "clef-bass")
+
+	/// `clef-treble`
+	static public let clef_treble = LucideIcon(identifier: "clef-treble")
 
 	/// `clipboard`
 	static public let clipboard = LucideIcon(identifier: "clipboard")
@@ -2105,12 +2123,6 @@ extension LucideIcon {
 	/// `flask-round`
 	static public let flask_round = LucideIcon(identifier: "flask-round")
 
-	/// `flip-horizontal-2`
-	static public let flip_horizontal_2 = LucideIcon(identifier: "flip-horizontal-2")
-
-	/// `flip-vertical-2`
-	static public let flip_vertical_2 = LucideIcon(identifier: "flip-vertical-2")
-
 	/// `flower`
 	static public let flower = LucideIcon(identifier: "flower")
 
@@ -2372,6 +2384,9 @@ extension LucideIcon {
 	/// `globe-check`
 	static public let globe_check = LucideIcon(identifier: "globe-check")
 
+	/// `globe-code`
+	static public let globe_code = LucideIcon(identifier: "globe-code")
+
 	/// `globe-lock`
 	static public let globe_lock = LucideIcon(identifier: "globe-lock")
 
@@ -2573,6 +2588,9 @@ extension LucideIcon {
 	/// `hourglass`
 	static public let hourglass = LucideIcon(identifier: "hourglass")
 
+	/// `hourglass-cog`
+	static public let hourglass_cog = LucideIcon(identifier: "hourglass-cog")
+
 	/// `house`
 	static public let house = LucideIcon(identifier: "house")
 
@@ -2587,6 +2605,9 @@ extension LucideIcon {
 
 	/// `house-wifi`
 	static public let house_wifi = LucideIcon(identifier: "house-wifi")
+
+	/// `houses`
+	static public let houses = LucideIcon(identifier: "houses")
 
 	/// `ice-cream-bowl`
 	static public let ice_cream_bowl = LucideIcon(identifier: "ice-cream-bowl")
@@ -2653,6 +2674,9 @@ extension LucideIcon {
 
 	/// `iteration-cw`
 	static public let iteration_cw = LucideIcon(identifier: "iteration-cw")
+
+	/// `iv-bag`
+	static public let iv_bag = LucideIcon(identifier: "iv-bag")
 
 	/// `japanese-yen`
 	static public let japanese_yen = LucideIcon(identifier: "japanese-yen")
@@ -2749,6 +2773,12 @@ extension LucideIcon {
 
 	/// `layers-plus`
 	static public let layers_plus = LucideIcon(identifier: "layers-plus")
+
+	/// `layout-arrow-down`
+	static public let layout_arrow_down = LucideIcon(identifier: "layout-arrow-down")
+
+	/// `layout-arrow-right`
+	static public let layout_arrow_right = LucideIcon(identifier: "layout-arrow-right")
 
 	/// `layout-dashboard`
 	static public let layout_dashboard = LucideIcon(identifier: "layout-dashboard")
@@ -3161,6 +3191,9 @@ extension LucideIcon {
 	/// `message-square-x`
 	static public let message_square_x = LucideIcon(identifier: "message-square-x")
 
+	/// `messages-circle`
+	static public let messages_circle = LucideIcon(identifier: "messages-circle")
+
 	/// `messages-square`
 	static public let messages_square = LucideIcon(identifier: "messages-square")
 
@@ -3311,6 +3344,12 @@ extension LucideIcon {
 	/// `mouse-right`
 	static public let mouse_right = LucideIcon(identifier: "mouse-right")
 
+	/// `mouth`
+	static public let mouth = LucideIcon(identifier: "mouth")
+
+	/// `mouth-off`
+	static public let mouth_off = LucideIcon(identifier: "mouth-off")
+
 	/// `move`
 	static public let move = LucideIcon(identifier: "move")
 
@@ -3391,6 +3430,9 @@ extension LucideIcon {
 
 	/// `notebook`
 	static public let notebook = LucideIcon(identifier: "notebook")
+
+	/// `notebook-dot`
+	static public let notebook_dot = LucideIcon(identifier: "notebook-dot")
 
 	/// `notebook-pen`
 	static public let notebook_pen = LucideIcon(identifier: "notebook-pen")
@@ -3557,6 +3599,9 @@ extension LucideIcon {
 	/// `parentheses`
 	static public let parentheses = LucideIcon(identifier: "parentheses")
 
+	/// `park`
+	static public let park = LucideIcon(identifier: "park")
+
 	/// `parking-meter`
 	static public let parking_meter = LucideIcon(identifier: "parking-meter")
 
@@ -3688,6 +3733,9 @@ extension LucideIcon {
 
 	/// `plane-takeoff`
 	static public let plane_takeoff = LucideIcon(identifier: "plane-takeoff")
+
+	/// `plant-pot`
+	static public let plant_pot = LucideIcon(identifier: "plant-pot")
 
 	/// `play`
 	static public let play = LucideIcon(identifier: "play")
@@ -4445,6 +4493,9 @@ extension LucideIcon {
 	/// `square-asterisk`
 	static public let square_asterisk = LucideIcon(identifier: "square-asterisk")
 
+	/// `square-bookmark`
+	static public let square_bookmark = LucideIcon(identifier: "square-bookmark")
+
 	/// `square-bottom-dashed-scissors`
 	static public let square_bottom_dashed_scissors = LucideIcon(identifier: "square-bottom-dashed-scissors")
 
@@ -4892,6 +4943,9 @@ extension LucideIcon {
 	/// `thumbs-up`
 	static public let thumbs_up = LucideIcon(identifier: "thumbs-up")
 
+	/// `tic-tac-toe`
+	static public let tic_tac_toe = LucideIcon(identifier: "tic-tac-toe")
+
 	/// `ticket`
 	static public let ticket = LucideIcon(identifier: "ticket")
 
@@ -4945,6 +4999,12 @@ extension LucideIcon {
 
 	/// `toolbox`
 	static public let toolbox = LucideIcon(identifier: "toolbox")
+
+	/// `toothbrush`
+	static public let toothbrush = LucideIcon(identifier: "toothbrush")
+
+	/// `toothbrush-sparkles`
+	static public let toothbrush_sparkles = LucideIcon(identifier: "toothbrush-sparkles")
 
 	/// `tornado`
 	static public let tornado = LucideIcon(identifier: "tornado")
@@ -5029,6 +5089,12 @@ extension LucideIcon {
 
 	/// `triangle-right`
 	static public let triangle_right = LucideIcon(identifier: "triangle-right")
+
+	/// `triangles-centerline-dashed-horizontal`
+	static public let triangles_centerline_dashed_horizontal = LucideIcon(identifier: "triangles-centerline-dashed-horizontal")
+
+	/// `triangles-centerline-dashed-vertical`
+	static public let triangles_centerline_dashed_vertical = LucideIcon(identifier: "triangles-centerline-dashed-vertical")
 
 	/// `trophy`
 	static public let trophy = LucideIcon(identifier: "trophy")
@@ -5120,6 +5186,9 @@ extension LucideIcon {
 	/// `user-cog`
 	static public let user_cog = LucideIcon(identifier: "user-cog")
 
+	/// `user-group`
+	static public let user_group = LucideIcon(identifier: "user-group")
+
 	/// `user-key`
 	static public let user_key = LucideIcon(identifier: "user-key")
 
@@ -5146,6 +5215,9 @@ extension LucideIcon {
 
 	/// `user-round-cog`
 	static public let user_round_cog = LucideIcon(identifier: "user-round-cog")
+
+	/// `user-round-group`
+	static public let user_round_group = LucideIcon(identifier: "user-round-group")
 
 	/// `user-round-key`
 	static public let user_round_key = LucideIcon(identifier: "user-round-key")

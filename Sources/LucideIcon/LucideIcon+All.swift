@@ -737,6 +737,9 @@ extension LucideIcon {
 	/// `briefcase-medical`
 	static public let briefcase_medical = LucideIcon(identifier: "briefcase-medical")
 
+	/// `briefcase-plus`
+	static public let briefcase_plus = LucideIcon(identifier: "briefcase-plus")
+
 	/// `bring-to-front`
 	static public let bring_to_front = LucideIcon(identifier: "bring-to-front")
 
@@ -1604,6 +1607,9 @@ extension LucideIcon {
 	/// `cup-soda`
 	static public let cup_soda = LucideIcon(identifier: "cup-soda")
 
+	/// `cupcake`
+	static public let cupcake = LucideIcon(identifier: "cupcake")
+
 	/// `currency`
 	static public let currency = LucideIcon(identifier: "currency")
 
@@ -1735,6 +1741,9 @@ extension LucideIcon {
 
 	/// `door-closed-locked`
 	static public let door_closed_locked = LucideIcon(identifier: "door-closed-locked")
+
+	/// `door-closed-package`
+	static public let door_closed_package = LucideIcon(identifier: "door-closed-package")
 
 	/// `door-open`
 	static public let door_open = LucideIcon(identifier: "door-open")
@@ -1888,6 +1897,9 @@ extension LucideIcon {
 
 	/// `fast-forward`
 	static public let fast_forward = LucideIcon(identifier: "fast-forward")
+
+	/// `faucet`
+	static public let faucet = LucideIcon(identifier: "faucet")
 
 	/// `feather`
 	static public let feather = LucideIcon(identifier: "feather")
@@ -2708,6 +2720,9 @@ extension LucideIcon {
 	/// `keyboard-off`
 	static public let keyboard_off = LucideIcon(identifier: "keyboard-off")
 
+	/// `lambda`
+	static public let lambda = LucideIcon(identifier: "lambda")
+
 	/// `lamp`
 	static public let lamp = LucideIcon(identifier: "lamp")
 
@@ -2837,8 +2852,17 @@ extension LucideIcon {
 	/// `lighthouse`
 	static public let lighthouse = LucideIcon(identifier: "lighthouse")
 
+	/// `line-dot-bottom-vertical`
+	static public let line_dot_bottom_vertical = LucideIcon(identifier: "line-dot-bottom-vertical")
+
+	/// `line-dot-left-horizontal`
+	static public let line_dot_left_horizontal = LucideIcon(identifier: "line-dot-left-horizontal")
+
 	/// `line-dot-right-horizontal`
 	static public let line_dot_right_horizontal = LucideIcon(identifier: "line-dot-right-horizontal")
+
+	/// `line-dot-top-vertical`
+	static public let line_dot_top_vertical = LucideIcon(identifier: "line-dot-top-vertical")
 
 	/// `line-squiggle`
 	static public let line_squiggle = LucideIcon(identifier: "line-squiggle")
@@ -3275,6 +3299,9 @@ extension LucideIcon {
 	/// `monitor-pause`
 	static public let monitor_pause = LucideIcon(identifier: "monitor-pause")
 
+	/// `monitor-pc`
+	static public let monitor_pc = LucideIcon(identifier: "monitor-pc")
+
 	/// `monitor-play`
 	static public let monitor_play = LucideIcon(identifier: "monitor-play")
 
@@ -3415,6 +3442,9 @@ extension LucideIcon {
 
 	/// `navigation-off`
 	static public let navigation_off = LucideIcon(identifier: "navigation-off")
+
+	/// `nepali-rupee`
+	static public let nepali_rupee = LucideIcon(identifier: "nepali-rupee")
 
 	/// `network`
 	static public let network = LucideIcon(identifier: "network")
@@ -4004,6 +4034,9 @@ extension LucideIcon {
 	/// `rotate-cw`
 	static public let rotate_cw = LucideIcon(identifier: "rotate-cw")
 
+	/// `rotate-cw-clock`
+	static public let rotate_cw_clock = LucideIcon(identifier: "rotate-cw-clock")
+
 	/// `rotate-cw-fading-clock`
 	static public let rotate_cw_fading_clock = LucideIcon(identifier: "rotate-cw-fading-clock")
 
@@ -4544,11 +4577,20 @@ extension LucideIcon {
 	/// `square-dashed-mouse-pointer`
 	static public let square_dashed_mouse_pointer = LucideIcon(identifier: "square-dashed-mouse-pointer")
 
+	/// `square-dashed-plus`
+	static public let square_dashed_plus = LucideIcon(identifier: "square-dashed-plus")
+
 	/// `square-dashed-text`
 	static public let square_dashed_text = LucideIcon(identifier: "square-dashed-text")
 
 	/// `square-dashed-top-solid`
 	static public let square_dashed_top_solid = LucideIcon(identifier: "square-dashed-top-solid")
+
+	/// `square-dashed-x`
+	static public let square_dashed_x = LucideIcon(identifier: "square-dashed-x")
+
+	/// `square-dashed-x-corner`
+	static public let square_dashed_x_corner = LucideIcon(identifier: "square-dashed-x-corner")
 
 	/// `square-dimensions`
 	static public let square_dimensions = LucideIcon(identifier: "square-dimensions")
@@ -4633,6 +4675,9 @@ extension LucideIcon {
 
 	/// `square-slash`
 	static public let square_slash = LucideIcon(identifier: "square-slash")
+
+	/// `square-sparkles`
+	static public let square_sparkles = LucideIcon(identifier: "square-sparkles")
 
 	/// `square-split-horizontal`
 	static public let square_split_horizontal = LucideIcon(identifier: "square-split-horizontal")
@@ -5104,6 +5149,9 @@ extension LucideIcon {
 
 	/// `truck-electric`
 	static public let truck_electric = LucideIcon(identifier: "truck-electric")
+
+	/// `tube-lotion`
+	static public let tube_lotion = LucideIcon(identifier: "tube-lotion")
 
 	/// `turkish-lira`
 	static public let turkish_lira = LucideIcon(identifier: "turkish-lira")

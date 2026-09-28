@@ -401,6 +401,9 @@ extension LucideIcon {
 	/// `bandage`
 	static public let bandage = LucideIcon(identifier: "bandage")
 
+	/// `bangladeshi-taka`
+	static public let bangladeshi_taka = LucideIcon(identifier: "bangladeshi-taka")
+
 	/// `banknote`
 	static public let banknote = LucideIcon(identifier: "banknote")
 
@@ -2606,6 +2609,9 @@ extension LucideIcon {
 	/// `house`
 	static public let house = LucideIcon(identifier: "house")
 
+	/// `house-cog`
+	static public let house_cog = LucideIcon(identifier: "house-cog")
+
 	/// `house-heart`
 	static public let house_heart = LucideIcon(identifier: "house-heart")
 
@@ -2830,6 +2836,9 @@ extension LucideIcon {
 
 	/// `lens-convex`
 	static public let lens_convex = LucideIcon(identifier: "lens-convex")
+
+	/// `letters`
+	static public let letters = LucideIcon(identifier: "letters")
 
 	/// `library`
 	static public let library = LucideIcon(identifier: "library")

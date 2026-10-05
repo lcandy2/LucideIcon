@@ -164,6 +164,9 @@ extension LucideIcon {
 	/// `armchair`
 	static public let armchair = LucideIcon(identifier: "armchair")
 
+	/// `armenian-dram`
+	static public let armenian_dram = LucideIcon(identifier: "armenian-dram")
+
 	/// `arrow-big-down`
 	static public let arrow_big_down = LucideIcon(identifier: "arrow-big-down")
 
@@ -1742,6 +1745,9 @@ extension LucideIcon {
 	/// `door-closed`
 	static public let door_closed = LucideIcon(identifier: "door-closed")
 
+	/// `door-closed-cog`
+	static public let door_closed_cog = LucideIcon(identifier: "door-closed-cog")
+
 	/// `door-closed-locked`
 	static public let door_closed_locked = LucideIcon(identifier: "door-closed-locked")
 
@@ -2708,6 +2714,9 @@ extension LucideIcon {
 	/// `kayak`
 	static public let kayak = LucideIcon(identifier: "kayak")
 
+	/// `kazakh-tenge`
+	static public let kazakh_tenge = LucideIcon(identifier: "kazakh-tenge")
+
 	/// `key`
 	static public let key = LucideIcon(identifier: "key")
 
@@ -2809,6 +2818,9 @@ extension LucideIcon {
 
 	/// `layout-grid`
 	static public let layout_grid = LucideIcon(identifier: "layout-grid")
+
+	/// `layout-grid-circles`
+	static public let layout_grid_circles = LucideIcon(identifier: "layout-grid-circles")
 
 	/// `layout-list`
 	static public let layout_list = LucideIcon(identifier: "layout-list")
@@ -3836,6 +3848,9 @@ extension LucideIcon {
 	/// `printer`
 	static public let printer = LucideIcon(identifier: "printer")
 
+	/// `printer-3d`
+	static public let printer_3d = LucideIcon(identifier: "printer-3d")
+
 	/// `printer-check`
 	static public let printer_check = LucideIcon(identifier: "printer-check")
 
@@ -4072,6 +4087,9 @@ extension LucideIcon {
 
 	/// `rss`
 	static public let rss = LucideIcon(identifier: "rss")
+
+	/// `rugby-ball`
+	static public let rugby_ball = LucideIcon(identifier: "rugby-ball")
 
 	/// `ruler`
 	static public let ruler = LucideIcon(identifier: "ruler")
@@ -4958,6 +4976,15 @@ extension LucideIcon {
 	/// `text-align-justify`
 	static public let text_align_justify = LucideIcon(identifier: "text-align-justify")
 
+	/// `text-align-justify-center`
+	static public let text_align_justify_center = LucideIcon(identifier: "text-align-justify-center")
+
+	/// `text-align-justify-end`
+	static public let text_align_justify_end = LucideIcon(identifier: "text-align-justify-end")
+
+	/// `text-align-justify-start`
+	static public let text_align_justify_start = LucideIcon(identifier: "text-align-justify-start")
+
 	/// `text-align-start`
 	static public let text_align_start = LucideIcon(identifier: "text-align-start")
 
@@ -5500,6 +5527,9 @@ extension LucideIcon {
 
 	/// `wind-arrow-down`
 	static public let wind_arrow_down = LucideIcon(identifier: "wind-arrow-down")
+
+	/// `wind-arrow-up`
+	static public let wind_arrow_up = LucideIcon(identifier: "wind-arrow-up")
 
 	/// `wine`
 	static public let wine = LucideIcon(identifier: "wine")

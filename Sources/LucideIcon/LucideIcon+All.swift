@@ -2456,6 +2456,9 @@ extension LucideIcon {
 	/// `grip-vertical`
 	static public let grip_vertical = LucideIcon(identifier: "grip-vertical")
 
+	/// `groceries`
+	static public let groceries = LucideIcon(identifier: "groceries")
+
 	/// `group`
 	static public let group = LucideIcon(identifier: "group")
 
@@ -2497,6 +2500,9 @@ extension LucideIcon {
 
 	/// `handbag`
 	static public let handbag = LucideIcon(identifier: "handbag")
+
+	/// `handle-bottom-right`
+	static public let handle_bottom_right = LucideIcon(identifier: "handle-bottom-right")
 
 	/// `handshake`
 	static public let handshake = LucideIcon(identifier: "handshake")
@@ -2593,6 +2599,9 @@ extension LucideIcon {
 
 	/// `highlighter`
 	static public let highlighter = LucideIcon(identifier: "highlighter")
+
+	/// `hiking-stick`
+	static public let hiking_stick = LucideIcon(identifier: "hiking-stick")
 
 	/// `hop`
 	static public let hop = LucideIcon(identifier: "hop")
@@ -2843,6 +2852,9 @@ extension LucideIcon {
 	/// `lectern`
 	static public let lectern = LucideIcon(identifier: "lectern")
 
+	/// `lens`
+	static public let lens = LucideIcon(identifier: "lens")
+
 	/// `lens-concave`
 	static public let lens_concave = LucideIcon(identifier: "lens-concave")
 
@@ -3031,6 +3043,9 @@ extension LucideIcon {
 
 	/// `mail-clock`
 	static public let mail_clock = LucideIcon(identifier: "mail-clock")
+
+	/// `mail-dot`
+	static public let mail_dot = LucideIcon(identifier: "mail-dot")
 
 	/// `mail-minus`
 	static public let mail_minus = LucideIcon(identifier: "mail-minus")
@@ -3722,6 +3737,9 @@ extension LucideIcon {
 	/// `phone-incoming`
 	static public let phone_incoming = LucideIcon(identifier: "phone-incoming")
 
+	/// `phone-log`
+	static public let phone_log = LucideIcon(identifier: "phone-log")
+
 	/// `phone-missed`
 	static public let phone_missed = LucideIcon(identifier: "phone-missed")
 
@@ -4190,11 +4208,17 @@ extension LucideIcon {
 	/// `scooter`
 	static public let scooter = LucideIcon(identifier: "scooter")
 
+	/// `scratch-blocks`
+	static public let scratch_blocks = LucideIcon(identifier: "scratch-blocks")
+
 	/// `screen-share`
 	static public let screen_share = LucideIcon(identifier: "screen-share")
 
 	/// `screen-share-off`
 	static public let screen_share_off = LucideIcon(identifier: "screen-share-off")
+
+	/// `screw`
+	static public let screw = LucideIcon(identifier: "screw")
 
 	/// `scroll`
 	static public let scroll = LucideIcon(identifier: "scroll")
@@ -4300,6 +4324,9 @@ extension LucideIcon {
 
 	/// `shield-half`
 	static public let shield_half = LucideIcon(identifier: "shield-half")
+
+	/// `shield-house`
+	static public let shield_house = LucideIcon(identifier: "shield-house")
 
 	/// `shield-keyhole`
 	static public let shield_keyhole = LucideIcon(identifier: "shield-keyhole")
@@ -5318,6 +5345,9 @@ extension LucideIcon {
 	/// `user-round-search`
 	static public let user_round_search = LucideIcon(identifier: "user-round-search")
 
+	/// `user-round-star`
+	static public let user_round_star = LucideIcon(identifier: "user-round-star")
+
 	/// `user-round-x`
 	static public let user_round_x = LucideIcon(identifier: "user-round-x")
 
@@ -5506,6 +5536,9 @@ extension LucideIcon {
 
 	/// `wifi-high`
 	static public let wifi_high = LucideIcon(identifier: "wifi-high")
+
+	/// `wifi-lock`
+	static public let wifi_lock = LucideIcon(identifier: "wifi-lock")
 
 	/// `wifi-low`
 	static public let wifi_low = LucideIcon(identifier: "wifi-low")

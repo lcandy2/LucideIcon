@@ -320,6 +320,9 @@ extension LucideIcon {
 	/// `audio-waveform`
 	static public let audio_waveform = LucideIcon(identifier: "audio-waveform")
 
+	/// `avocado`
+	static public let avocado = LucideIcon(identifier: "avocado")
+
 	/// `award`
 	static public let award = LucideIcon(identifier: "award")
 
@@ -334,6 +337,9 @@ extension LucideIcon {
 
 	/// `backpack`
 	static public let backpack = LucideIcon(identifier: "backpack")
+
+	/// `bacon`
+	static public let bacon = LucideIcon(identifier: "bacon")
 
 	/// `badge`
 	static public let badge = LucideIcon(identifier: "badge")
@@ -721,6 +727,9 @@ extension LucideIcon {
 
 	/// `brain-cog`
 	static public let brain_cog = LucideIcon(identifier: "brain-cog")
+
+	/// `brain-off`
+	static public let brain_off = LucideIcon(identifier: "brain-off")
 
 	/// `brick-wall`
 	static public let brick_wall = LucideIcon(identifier: "brick-wall")
@@ -1174,6 +1183,18 @@ extension LucideIcon {
 
 	/// `circle-chevron-up`
 	static public let circle_chevron_up = LucideIcon(identifier: "circle-chevron-up")
+
+	/// `circle-chevrons-down`
+	static public let circle_chevrons_down = LucideIcon(identifier: "circle-chevrons-down")
+
+	/// `circle-chevrons-left`
+	static public let circle_chevrons_left = LucideIcon(identifier: "circle-chevrons-left")
+
+	/// `circle-chevrons-right`
+	static public let circle_chevrons_right = LucideIcon(identifier: "circle-chevrons-right")
+
+	/// `circle-chevrons-up`
+	static public let circle_chevrons_up = LucideIcon(identifier: "circle-chevrons-up")
 
 	/// `circle-dashed`
 	static public let circle_dashed = LucideIcon(identifier: "circle-dashed")
@@ -2456,6 +2477,9 @@ extension LucideIcon {
 	/// `grape`
 	static public let grape = LucideIcon(identifier: "grape")
 
+	/// `graph-hub`
+	static public let graph_hub = LucideIcon(identifier: "graph-hub")
+
 	/// `graph-star`
 	static public let graph_star = LucideIcon(identifier: "graph-star")
 
@@ -2897,6 +2921,9 @@ extension LucideIcon {
 	/// `lens-convex`
 	static public let lens_convex = LucideIcon(identifier: "lens-convex")
 
+	/// `letter-spacing`
+	static public let letter_spacing = LucideIcon(identifier: "letter-spacing")
+
 	/// `letters`
 	static public let letters = LucideIcon(identifier: "letters")
 
@@ -2932,6 +2959,9 @@ extension LucideIcon {
 
 	/// `line-dot-top-vertical`
 	static public let line_dot_top_vertical = LucideIcon(identifier: "line-dot-top-vertical")
+
+	/// `line-height`
+	static public let line_height = LucideIcon(identifier: "line-height")
 
 	/// `line-squiggle`
 	static public let line_squiggle = LucideIcon(identifier: "line-squiggle")
@@ -4499,6 +4529,9 @@ extension LucideIcon {
 	/// `smartphone-nfc`
 	static public let smartphone_nfc = LucideIcon(identifier: "smartphone-nfc")
 
+	/// `smartphone-user-round`
+	static public let smartphone_user_round = LucideIcon(identifier: "smartphone-user-round")
+
 	/// `snail`
 	static public let snail = LucideIcon(identifier: "snail")
 
@@ -5137,6 +5170,9 @@ extension LucideIcon {
 
 	/// `toilet`
 	static public let toilet = LucideIcon(identifier: "toilet")
+
+	/// `tombstone`
+	static public let tombstone = LucideIcon(identifier: "tombstone")
 
 	/// `tool-case`
 	static public let tool_case = LucideIcon(identifier: "tool-case")

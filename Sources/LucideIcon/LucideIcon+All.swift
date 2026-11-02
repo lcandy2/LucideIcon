@@ -155,8 +155,11 @@ extension LucideIcon {
 	/// `archive`
 	static public let archive = LucideIcon(identifier: "archive")
 
-	/// `archive-restore`
-	static public let archive_restore = LucideIcon(identifier: "archive-restore")
+	/// `archive-arrow-down`
+	static public let archive_arrow_down = LucideIcon(identifier: "archive-arrow-down")
+
+	/// `archive-arrow-up`
+	static public let archive_arrow_up = LucideIcon(identifier: "archive-arrow-up")
 
 	/// `archive-x`
 	static public let archive_x = LucideIcon(identifier: "archive-x")
@@ -332,6 +335,9 @@ extension LucideIcon {
 	/// `axis-3d`
 	static public let axis_3d = LucideIcon(identifier: "axis-3d")
 
+	/// `azerbaijani-manat`
+	static public let azerbaijani_manat = LucideIcon(identifier: "azerbaijani-manat")
+
 	/// `baby`
 	static public let baby = LucideIcon(identifier: "baby")
 
@@ -397,6 +403,9 @@ extension LucideIcon {
 
 	/// `baggage-claim`
 	static public let baggage_claim = LucideIcon(identifier: "baggage-claim")
+
+	/// `ball-wave`
+	static public let ball_wave = LucideIcon(identifier: "ball-wave")
 
 	/// `balloon`
 	static public let balloon = LucideIcon(identifier: "balloon")
@@ -578,9 +587,6 @@ extension LucideIcon {
 	/// `bluetooth-searching`
 	static public let bluetooth_searching = LucideIcon(identifier: "bluetooth-searching")
 
-	/// `bold`
-	static public let bold = LucideIcon(identifier: "bold")
-
 	/// `bolt`
 	static public let bolt = LucideIcon(identifier: "bolt")
 
@@ -713,6 +719,9 @@ extension LucideIcon {
 	/// `boxes`
 	static public let boxes = LucideIcon(identifier: "boxes")
 
+	/// `boxes-linked`
+	static public let boxes_linked = LucideIcon(identifier: "boxes-linked")
+
 	/// `braces`
 	static public let braces = LucideIcon(identifier: "braces")
 
@@ -826,6 +835,12 @@ extension LucideIcon {
 
 	/// `calendar-arrow-down`
 	static public let calendar_arrow_down = LucideIcon(identifier: "calendar-arrow-down")
+
+	/// `calendar-arrow-left`
+	static public let calendar_arrow_left = LucideIcon(identifier: "calendar-arrow-left")
+
+	/// `calendar-arrow-right`
+	static public let calendar_arrow_right = LucideIcon(identifier: "calendar-arrow-right")
 
 	/// `calendar-arrow-up`
 	static public let calendar_arrow_up = LucideIcon(identifier: "calendar-arrow-up")
@@ -998,6 +1013,9 @@ extension LucideIcon {
 	/// `chart-bar-stacked`
 	static public let chart_bar_stacked = LucideIcon(identifier: "chart-bar-stacked")
 
+	/// `chart-bell-curve`
+	static public let chart_bell_curve = LucideIcon(identifier: "chart-bell-curve")
+
 	/// `chart-candlestick`
 	static public let chart_candlestick = LucideIcon(identifier: "chart-candlestick")
 
@@ -1042,6 +1060,12 @@ extension LucideIcon {
 
 	/// `chart-pie`
 	static public let chart_pie = LucideIcon(identifier: "chart-pie")
+
+	/// `chart-quadrant`
+	static public let chart_quadrant = LucideIcon(identifier: "chart-quadrant")
+
+	/// `chart-radar`
+	static public let chart_radar = LucideIcon(identifier: "chart-radar")
 
 	/// `chart-scatter`
 	static public let chart_scatter = LucideIcon(identifier: "chart-scatter")
@@ -1235,17 +1259,92 @@ extension LucideIcon {
 	/// `circle-gauge`
 	static public let circle_gauge = LucideIcon(identifier: "circle-gauge")
 
+	/// `circle-letter-a`
+	static public let circle_letter_a = LucideIcon(identifier: "circle-letter-a")
+
+	/// `circle-letter-b`
+	static public let circle_letter_b = LucideIcon(identifier: "circle-letter-b")
+
+	/// `circle-letter-c`
+	static public let circle_letter_c = LucideIcon(identifier: "circle-letter-c")
+
+	/// `circle-letter-d`
+	static public let circle_letter_d = LucideIcon(identifier: "circle-letter-d")
+
+	/// `circle-letter-e`
+	static public let circle_letter_e = LucideIcon(identifier: "circle-letter-e")
+
+	/// `circle-letter-f`
+	static public let circle_letter_f = LucideIcon(identifier: "circle-letter-f")
+
+	/// `circle-letter-g`
+	static public let circle_letter_g = LucideIcon(identifier: "circle-letter-g")
+
+	/// `circle-letter-h`
+	static public let circle_letter_h = LucideIcon(identifier: "circle-letter-h")
+
+	/// `circle-letter-i`
+	static public let circle_letter_i = LucideIcon(identifier: "circle-letter-i")
+
+	/// `circle-letter-j`
+	static public let circle_letter_j = LucideIcon(identifier: "circle-letter-j")
+
+	/// `circle-letter-k`
+	static public let circle_letter_k = LucideIcon(identifier: "circle-letter-k")
+
+	/// `circle-letter-l`
+	static public let circle_letter_l = LucideIcon(identifier: "circle-letter-l")
+
+	/// `circle-letter-m`
+	static public let circle_letter_m = LucideIcon(identifier: "circle-letter-m")
+
+	/// `circle-letter-n`
+	static public let circle_letter_n = LucideIcon(identifier: "circle-letter-n")
+
+	/// `circle-letter-o`
+	static public let circle_letter_o = LucideIcon(identifier: "circle-letter-o")
+
+	/// `circle-letter-p`
+	static public let circle_letter_p = LucideIcon(identifier: "circle-letter-p")
+
+	/// `circle-letter-p-off`
+	static public let circle_letter_p_off = LucideIcon(identifier: "circle-letter-p-off")
+
+	/// `circle-letter-q`
+	static public let circle_letter_q = LucideIcon(identifier: "circle-letter-q")
+
+	/// `circle-letter-r`
+	static public let circle_letter_r = LucideIcon(identifier: "circle-letter-r")
+
+	/// `circle-letter-s`
+	static public let circle_letter_s = LucideIcon(identifier: "circle-letter-s")
+
+	/// `circle-letter-t`
+	static public let circle_letter_t = LucideIcon(identifier: "circle-letter-t")
+
+	/// `circle-letter-u`
+	static public let circle_letter_u = LucideIcon(identifier: "circle-letter-u")
+
+	/// `circle-letter-v`
+	static public let circle_letter_v = LucideIcon(identifier: "circle-letter-v")
+
+	/// `circle-letter-w`
+	static public let circle_letter_w = LucideIcon(identifier: "circle-letter-w")
+
+	/// `circle-letter-x`
+	static public let circle_letter_x = LucideIcon(identifier: "circle-letter-x")
+
+	/// `circle-letter-y`
+	static public let circle_letter_y = LucideIcon(identifier: "circle-letter-y")
+
+	/// `circle-letter-z`
+	static public let circle_letter_z = LucideIcon(identifier: "circle-letter-z")
+
 	/// `circle-minus`
 	static public let circle_minus = LucideIcon(identifier: "circle-minus")
 
 	/// `circle-off`
 	static public let circle_off = LucideIcon(identifier: "circle-off")
-
-	/// `circle-parking`
-	static public let circle_parking = LucideIcon(identifier: "circle-parking")
-
-	/// `circle-parking-off`
-	static public let circle_parking_off = LucideIcon(identifier: "circle-parking-off")
 
 	/// `circle-pause`
 	static public let circle_pause = LucideIcon(identifier: "circle-pause")
@@ -1574,9 +1673,6 @@ extension LucideIcon {
 	/// `copyleft`
 	static public let copyleft = LucideIcon(identifier: "copyleft")
 
-	/// `copyright`
-	static public let copyright = LucideIcon(identifier: "copyright")
-
 	/// `corner-down-left`
 	static public let corner_down_left = LucideIcon(identifier: "corner-down-left")
 
@@ -1675,6 +1771,9 @@ extension LucideIcon {
 
 	/// `database-check`
 	static public let database_check = LucideIcon(identifier: "database-check")
+
+	/// `database-cog`
+	static public let database_cog = LucideIcon(identifier: "database-cog")
 
 	/// `database-minus`
 	static public let database_minus = LucideIcon(identifier: "database-minus")
@@ -1838,6 +1937,12 @@ extension LucideIcon {
 	/// `ear-off`
 	static public let ear_off = LucideIcon(identifier: "ear-off")
 
+	/// `earbuds`
+	static public let earbuds = LucideIcon(identifier: "earbuds")
+
+	/// `earbuds-off`
+	static public let earbuds_off = LucideIcon(identifier: "earbuds-off")
+
 	/// `earth`
 	static public let earth = LucideIcon(identifier: "earth")
 
@@ -1873,6 +1978,9 @@ extension LucideIcon {
 
 	/// `ellipsis-vertical`
 	static public let ellipsis_vertical = LucideIcon(identifier: "ellipsis-vertical")
+
+	/// `emirati-dirham`
+	static public let emirati_dirham = LucideIcon(identifier: "emirati-dirham")
 
 	/// `engine`
 	static public let engine = LucideIcon(identifier: "engine")
@@ -2011,6 +2119,9 @@ extension LucideIcon {
 
 	/// `file-cog`
 	static public let file_cog = LucideIcon(identifier: "file-cog")
+
+	/// `file-database`
+	static public let file_database = LucideIcon(identifier: "file-database")
 
 	/// `file-diff`
 	static public let file_diff = LucideIcon(identifier: "file-diff")
@@ -2594,9 +2705,6 @@ extension LucideIcon {
 	/// `hdmi-port`
 	static public let hdmi_port = LucideIcon(identifier: "hdmi-port")
 
-	/// `heading`
-	static public let heading = LucideIcon(identifier: "heading")
-
 	/// `heading-1`
 	static public let heading_1 = LucideIcon(identifier: "heading-1")
 
@@ -2663,6 +2771,9 @@ extension LucideIcon {
 	/// `hiking-stick`
 	static public let hiking_stick = LucideIcon(identifier: "hiking-stick")
 
+	/// `hockey-stick`
+	static public let hockey_stick = LucideIcon(identifier: "hockey-stick")
+
 	/// `hop`
 	static public let hop = LucideIcon(identifier: "hop")
 
@@ -2671,6 +2782,9 @@ extension LucideIcon {
 
 	/// `hospital`
 	static public let hospital = LucideIcon(identifier: "hospital")
+
+	/// `hot-air-balloon`
+	static public let hot_air_balloon = LucideIcon(identifier: "hot-air-balloon")
 
 	/// `hotel`
 	static public let hotel = LucideIcon(identifier: "hotel")
@@ -2843,6 +2957,9 @@ extension LucideIcon {
 	/// `laptop-minimal-check`
 	static public let laptop_minimal_check = LucideIcon(identifier: "laptop-minimal-check")
 
+	/// `laser`
+	static public let laser = LucideIcon(identifier: "laser")
+
 	/// `lasso`
 	static public let lasso = LucideIcon(identifier: "lasso")
 
@@ -2921,8 +3038,86 @@ extension LucideIcon {
 	/// `lens-convex`
 	static public let lens_convex = LucideIcon(identifier: "lens-convex")
 
+	/// `letter-a`
+	static public let letter_a = LucideIcon(identifier: "letter-a")
+
+	/// `letter-b`
+	static public let letter_b = LucideIcon(identifier: "letter-b")
+
+	/// `letter-c`
+	static public let letter_c = LucideIcon(identifier: "letter-c")
+
+	/// `letter-d`
+	static public let letter_d = LucideIcon(identifier: "letter-d")
+
+	/// `letter-e`
+	static public let letter_e = LucideIcon(identifier: "letter-e")
+
+	/// `letter-f`
+	static public let letter_f = LucideIcon(identifier: "letter-f")
+
+	/// `letter-g`
+	static public let letter_g = LucideIcon(identifier: "letter-g")
+
+	/// `letter-h`
+	static public let letter_h = LucideIcon(identifier: "letter-h")
+
+	/// `letter-i`
+	static public let letter_i = LucideIcon(identifier: "letter-i")
+
+	/// `letter-j`
+	static public let letter_j = LucideIcon(identifier: "letter-j")
+
+	/// `letter-k`
+	static public let letter_k = LucideIcon(identifier: "letter-k")
+
+	/// `letter-l`
+	static public let letter_l = LucideIcon(identifier: "letter-l")
+
+	/// `letter-m`
+	static public let letter_m = LucideIcon(identifier: "letter-m")
+
+	/// `letter-n`
+	static public let letter_n = LucideIcon(identifier: "letter-n")
+
+	/// `letter-o`
+	static public let letter_o = LucideIcon(identifier: "letter-o")
+
+	/// `letter-p`
+	static public let letter_p = LucideIcon(identifier: "letter-p")
+
+	/// `letter-q`
+	static public let letter_q = LucideIcon(identifier: "letter-q")
+
+	/// `letter-r`
+	static public let letter_r = LucideIcon(identifier: "letter-r")
+
+	/// `letter-s`
+	static public let letter_s = LucideIcon(identifier: "letter-s")
+
 	/// `letter-spacing`
 	static public let letter_spacing = LucideIcon(identifier: "letter-spacing")
+
+	/// `letter-t`
+	static public let letter_t = LucideIcon(identifier: "letter-t")
+
+	/// `letter-u`
+	static public let letter_u = LucideIcon(identifier: "letter-u")
+
+	/// `letter-v`
+	static public let letter_v = LucideIcon(identifier: "letter-v")
+
+	/// `letter-w`
+	static public let letter_w = LucideIcon(identifier: "letter-w")
+
+	/// `letter-x`
+	static public let letter_x = LucideIcon(identifier: "letter-x")
+
+	/// `letter-y`
+	static public let letter_y = LucideIcon(identifier: "letter-y")
+
+	/// `letter-z`
+	static public let letter_z = LucideIcon(identifier: "letter-z")
 
 	/// `letters`
 	static public let letters = LucideIcon(identifier: "letters")
@@ -3194,6 +3389,27 @@ extension LucideIcon {
 	/// `map-plus`
 	static public let map_plus = LucideIcon(identifier: "map-plus")
 
+	/// `margin`
+	static public let margin = LucideIcon(identifier: "margin")
+
+	/// `margin-bottom`
+	static public let margin_bottom = LucideIcon(identifier: "margin-bottom")
+
+	/// `margin-horizontal`
+	static public let margin_horizontal = LucideIcon(identifier: "margin-horizontal")
+
+	/// `margin-left`
+	static public let margin_left = LucideIcon(identifier: "margin-left")
+
+	/// `margin-right`
+	static public let margin_right = LucideIcon(identifier: "margin-right")
+
+	/// `margin-top`
+	static public let margin_top = LucideIcon(identifier: "margin-top")
+
+	/// `margin-vertical`
+	static public let margin_vertical = LucideIcon(identifier: "margin-vertical")
+
 	/// `mars`
 	static public let mars = LucideIcon(identifier: "mars")
 
@@ -3383,6 +3599,9 @@ extension LucideIcon {
 	/// `monitor`
 	static public let monitor = LucideIcon(identifier: "monitor")
 
+	/// `monitor-activity`
+	static public let monitor_activity = LucideIcon(identifier: "monitor-activity")
+
 	/// `monitor-check`
 	static public let monitor_check = LucideIcon(identifier: "monitor-check")
 
@@ -3571,6 +3790,9 @@ extension LucideIcon {
 
 	/// `notepad-text-dashed`
 	static public let notepad_text_dashed = LucideIcon(identifier: "notepad-text-dashed")
+
+	/// `numbers`
+	static public let numbers = LucideIcon(identifier: "numbers")
 
 	/// `nut`
 	static public let nut = LucideIcon(identifier: "nut")
@@ -4496,6 +4718,9 @@ extension LucideIcon {
 	/// `siren`
 	static public let siren = LucideIcon(identifier: "siren")
 
+	/// `siren-off`
+	static public let siren_off = LucideIcon(identifier: "siren-off")
+
 	/// `sixteenth-notes`
 	static public let sixteenth_notes = LucideIcon(identifier: "sixteenth-notes")
 
@@ -4682,6 +4907,18 @@ extension LucideIcon {
 	/// `square-chevron-up`
 	static public let square_chevron_up = LucideIcon(identifier: "square-chevron-up")
 
+	/// `square-chevrons-down`
+	static public let square_chevrons_down = LucideIcon(identifier: "square-chevrons-down")
+
+	/// `square-chevrons-left`
+	static public let square_chevrons_left = LucideIcon(identifier: "square-chevrons-left")
+
+	/// `square-chevrons-right`
+	static public let square_chevrons_right = LucideIcon(identifier: "square-chevrons-right")
+
+	/// `square-chevrons-up`
+	static public let square_chevrons_up = LucideIcon(identifier: "square-chevrons-up")
+
 	/// `square-code`
 	static public let square_code = LucideIcon(identifier: "square-code")
 
@@ -4736,11 +4973,92 @@ extension LucideIcon {
 	/// `square-kanban`
 	static public let square_kanban = LucideIcon(identifier: "square-kanban")
 
+	/// `square-kanban-plus`
+	static public let square_kanban_plus = LucideIcon(identifier: "square-kanban-plus")
+
+	/// `square-letter-a`
+	static public let square_letter_a = LucideIcon(identifier: "square-letter-a")
+
+	/// `square-letter-b`
+	static public let square_letter_b = LucideIcon(identifier: "square-letter-b")
+
+	/// `square-letter-c`
+	static public let square_letter_c = LucideIcon(identifier: "square-letter-c")
+
+	/// `square-letter-d`
+	static public let square_letter_d = LucideIcon(identifier: "square-letter-d")
+
+	/// `square-letter-e`
+	static public let square_letter_e = LucideIcon(identifier: "square-letter-e")
+
+	/// `square-letter-f`
+	static public let square_letter_f = LucideIcon(identifier: "square-letter-f")
+
+	/// `square-letter-g`
+	static public let square_letter_g = LucideIcon(identifier: "square-letter-g")
+
+	/// `square-letter-h`
+	static public let square_letter_h = LucideIcon(identifier: "square-letter-h")
+
+	/// `square-letter-i`
+	static public let square_letter_i = LucideIcon(identifier: "square-letter-i")
+
+	/// `square-letter-j`
+	static public let square_letter_j = LucideIcon(identifier: "square-letter-j")
+
+	/// `square-letter-k`
+	static public let square_letter_k = LucideIcon(identifier: "square-letter-k")
+
+	/// `square-letter-l`
+	static public let square_letter_l = LucideIcon(identifier: "square-letter-l")
+
+	/// `square-letter-m`
+	static public let square_letter_m = LucideIcon(identifier: "square-letter-m")
+
+	/// `square-letter-n`
+	static public let square_letter_n = LucideIcon(identifier: "square-letter-n")
+
+	/// `square-letter-o`
+	static public let square_letter_o = LucideIcon(identifier: "square-letter-o")
+
+	/// `square-letter-p`
+	static public let square_letter_p = LucideIcon(identifier: "square-letter-p")
+
+	/// `square-letter-p-off`
+	static public let square_letter_p_off = LucideIcon(identifier: "square-letter-p-off")
+
+	/// `square-letter-q`
+	static public let square_letter_q = LucideIcon(identifier: "square-letter-q")
+
+	/// `square-letter-r`
+	static public let square_letter_r = LucideIcon(identifier: "square-letter-r")
+
+	/// `square-letter-s`
+	static public let square_letter_s = LucideIcon(identifier: "square-letter-s")
+
+	/// `square-letter-t`
+	static public let square_letter_t = LucideIcon(identifier: "square-letter-t")
+
+	/// `square-letter-u`
+	static public let square_letter_u = LucideIcon(identifier: "square-letter-u")
+
+	/// `square-letter-v`
+	static public let square_letter_v = LucideIcon(identifier: "square-letter-v")
+
+	/// `square-letter-w`
+	static public let square_letter_w = LucideIcon(identifier: "square-letter-w")
+
+	/// `square-letter-x`
+	static public let square_letter_x = LucideIcon(identifier: "square-letter-x")
+
+	/// `square-letter-y`
+	static public let square_letter_y = LucideIcon(identifier: "square-letter-y")
+
+	/// `square-letter-z`
+	static public let square_letter_z = LucideIcon(identifier: "square-letter-z")
+
 	/// `square-library`
 	static public let square_library = LucideIcon(identifier: "square-library")
-
-	/// `square-m`
-	static public let square_m = LucideIcon(identifier: "square-m")
 
 	/// `square-menu`
 	static public let square_menu = LucideIcon(identifier: "square-menu")
@@ -4754,11 +5072,26 @@ extension LucideIcon {
 	/// `square-off`
 	static public let square_off = LucideIcon(identifier: "square-off")
 
-	/// `square-parking`
-	static public let square_parking = LucideIcon(identifier: "square-parking")
+	/// `square-padding`
+	static public let square_padding = LucideIcon(identifier: "square-padding")
 
-	/// `square-parking-off`
-	static public let square_parking_off = LucideIcon(identifier: "square-parking-off")
+	/// `square-padding-bottom`
+	static public let square_padding_bottom = LucideIcon(identifier: "square-padding-bottom")
+
+	/// `square-padding-horizontal`
+	static public let square_padding_horizontal = LucideIcon(identifier: "square-padding-horizontal")
+
+	/// `square-padding-left`
+	static public let square_padding_left = LucideIcon(identifier: "square-padding-left")
+
+	/// `square-padding-right`
+	static public let square_padding_right = LucideIcon(identifier: "square-padding-right")
+
+	/// `square-padding-top`
+	static public let square_padding_top = LucideIcon(identifier: "square-padding-top")
+
+	/// `square-padding-vertical`
+	static public let square_padding_vertical = LucideIcon(identifier: "square-padding-vertical")
 
 	/// `square-pause`
 	static public let square_pause = LucideIcon(identifier: "square-pause")
@@ -5416,6 +5749,9 @@ extension LucideIcon {
 
 	/// `user-round-search`
 	static public let user_round_search = LucideIcon(identifier: "user-round-search")
+
+	/// `user-round-shield`
+	static public let user_round_shield = LucideIcon(identifier: "user-round-shield")
 
 	/// `user-round-star`
 	static public let user_round_star = LucideIcon(identifier: "user-round-star")

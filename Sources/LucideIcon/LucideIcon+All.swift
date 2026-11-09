@@ -350,9 +350,6 @@ extension LucideIcon {
 	/// `badge`
 	static public let badge = LucideIcon(identifier: "badge")
 
-	/// `badge-alert`
-	static public let badge_alert = LucideIcon(identifier: "badge-alert")
-
 	/// `badge-cent`
 	static public let badge_cent = LucideIcon(identifier: "badge-cent")
 
@@ -364,6 +361,9 @@ extension LucideIcon {
 
 	/// `badge-euro`
 	static public let badge_euro = LucideIcon(identifier: "badge-euro")
+
+	/// `badge-exclamation-point`
+	static public let badge_exclamation_point = LucideIcon(identifier: "badge-exclamation-point")
 
 	/// `badge-indian-rupee`
 	static public let badge_indian_rupee = LucideIcon(identifier: "badge-indian-rupee")
@@ -455,6 +455,9 @@ extension LucideIcon {
 	/// `battery-charging`
 	static public let battery_charging = LucideIcon(identifier: "battery-charging")
 
+	/// `battery-exclamation-point`
+	static public let battery_exclamation_point = LucideIcon(identifier: "battery-exclamation-point")
+
 	/// `battery-full`
 	static public let battery_full = LucideIcon(identifier: "battery-full")
 
@@ -466,9 +469,6 @@ extension LucideIcon {
 
 	/// `battery-plus`
 	static public let battery_plus = LucideIcon(identifier: "battery-plus")
-
-	/// `battery-warning`
-	static public let battery_warning = LucideIcon(identifier: "battery-warning")
 
 	/// `beaker`
 	static public let beaker = LucideIcon(identifier: "beaker")
@@ -605,9 +605,6 @@ extension LucideIcon {
 	/// `book-a`
 	static public let book_a = LucideIcon(identifier: "book-a")
 
-	/// `book-alert`
-	static public let book_alert = LucideIcon(identifier: "book-alert")
-
 	/// `book-audio`
 	static public let book_audio = LucideIcon(identifier: "book-audio")
 
@@ -625,6 +622,9 @@ extension LucideIcon {
 
 	/// `book-down`
 	static public let book_down = LucideIcon(identifier: "book-down")
+
+	/// `book-exclamation-point`
+	static public let book_exclamation_point = LucideIcon(identifier: "book-exclamation-point")
 
 	/// `book-headphones`
 	static public let book_headphones = LucideIcon(identifier: "book-headphones")
@@ -1163,9 +1163,6 @@ extension LucideIcon {
 	/// `circle`
 	static public let circle = LucideIcon(identifier: "circle")
 
-	/// `circle-alert`
-	static public let circle_alert = LucideIcon(identifier: "circle-alert")
-
 	/// `circle-arrow-down`
 	static public let circle_arrow_down = LucideIcon(identifier: "circle-arrow-down")
 
@@ -1247,8 +1244,14 @@ extension LucideIcon {
 	/// `circle-euro`
 	static public let circle_euro = LucideIcon(identifier: "circle-euro")
 
+	/// `circle-exclamation-point`
+	static public let circle_exclamation_point = LucideIcon(identifier: "circle-exclamation-point")
+
 	/// `circle-fading-arrow-up`
 	static public let circle_fading_arrow_up = LucideIcon(identifier: "circle-fading-arrow-up")
+
+	/// `circle-fading-check`
+	static public let circle_fading_check = LucideIcon(identifier: "circle-fading-check")
 
 	/// `circle-fading-play`
 	static public let circle_fading_play = LucideIcon(identifier: "circle-fading-play")
@@ -1487,9 +1490,6 @@ extension LucideIcon {
 	/// `clock-9`
 	static public let clock_9 = LucideIcon(identifier: "clock-9")
 
-	/// `clock-alert`
-	static public let clock_alert = LucideIcon(identifier: "clock-alert")
-
 	/// `clock-arrow-down`
 	static public let clock_arrow_down = LucideIcon(identifier: "clock-arrow-down")
 
@@ -1505,6 +1505,9 @@ extension LucideIcon {
 	/// `clock-check`
 	static public let clock_check = LucideIcon(identifier: "clock-check")
 
+	/// `clock-exclamation-point`
+	static public let clock_exclamation_point = LucideIcon(identifier: "clock-exclamation-point")
+
 	/// `clock-fading`
 	static public let clock_fading = LucideIcon(identifier: "clock-fading")
 
@@ -1516,9 +1519,6 @@ extension LucideIcon {
 
 	/// `cloud`
 	static public let cloud = LucideIcon(identifier: "cloud")
-
-	/// `cloud-alert`
-	static public let cloud_alert = LucideIcon(identifier: "cloud-alert")
 
 	/// `cloud-backup`
 	static public let cloud_backup = LucideIcon(identifier: "cloud-backup")
@@ -1534,6 +1534,9 @@ extension LucideIcon {
 
 	/// `cloud-drizzle`
 	static public let cloud_drizzle = LucideIcon(identifier: "cloud-drizzle")
+
+	/// `cloud-exclamation-point`
+	static public let cloud_exclamation_point = LucideIcon(identifier: "cloud-exclamation-point")
 
 	/// `cloud-fog`
 	static public let cloud_fog = LucideIcon(identifier: "cloud-fog")
@@ -1801,6 +1804,12 @@ extension LucideIcon {
 
 	/// `dessert`
 	static public let dessert = LucideIcon(identifier: "dessert")
+
+	/// `diagram-flow-horizontal`
+	static public let diagram_flow_horizontal = LucideIcon(identifier: "diagram-flow-horizontal")
+
+	/// `diagram-flow-vertical`
+	static public let diagram_flow_vertical = LucideIcon(identifier: "diagram-flow-vertical")
 
 	/// `diameter`
 	static public let diameter = LucideIcon(identifier: "diameter")
@@ -2561,6 +2570,9 @@ extension LucideIcon {
 	/// `globe`
 	static public let globe = LucideIcon(identifier: "globe")
 
+	/// `globe-ban`
+	static public let globe_ban = LucideIcon(identifier: "globe-ban")
+
 	/// `globe-check`
 	static public let globe_check = LucideIcon(identifier: "globe-check")
 
@@ -2572,6 +2584,9 @@ extension LucideIcon {
 
 	/// `globe-off`
 	static public let globe_off = LucideIcon(identifier: "globe-off")
+
+	/// `globe-plus`
+	static public let globe_plus = LucideIcon(identifier: "globe-plus")
 
 	/// `globe-x`
 	static public let globe_x = LucideIcon(identifier: "globe-x")
@@ -2611,6 +2626,9 @@ extension LucideIcon {
 
 	/// `grid-3x3`
 	static public let grid_3x3 = LucideIcon(identifier: "grid-3x3")
+
+	/// `grid-3x3-off`
+	static public let grid_3x3_off = LucideIcon(identifier: "grid-3x3-off")
 
 	/// `grip`
 	static public let grip = LucideIcon(identifier: "grip")
@@ -3308,6 +3326,9 @@ extension LucideIcon {
 	/// `mail-dot`
 	static public let mail_dot = LucideIcon(identifier: "mail-dot")
 
+	/// `mail-exclamation-point`
+	static public let mail_exclamation_point = LucideIcon(identifier: "mail-exclamation-point")
+
 	/// `mail-minus`
 	static public let mail_minus = LucideIcon(identifier: "mail-minus")
 
@@ -3326,9 +3347,6 @@ extension LucideIcon {
 	/// `mail-search`
 	static public let mail_search = LucideIcon(identifier: "mail-search")
 
-	/// `mail-warning`
-	static public let mail_warning = LucideIcon(identifier: "mail-warning")
-
 	/// `mail-x`
 	static public let mail_x = LucideIcon(identifier: "mail-x")
 
@@ -3337,6 +3355,9 @@ extension LucideIcon {
 
 	/// `mails`
 	static public let mails = LucideIcon(identifier: "mails")
+
+	/// `mango`
+	static public let mango = LucideIcon(identifier: "mango")
 
 	/// `map`
 	static public let map = LucideIcon(identifier: "map")
@@ -3458,6 +3479,9 @@ extension LucideIcon {
 	/// `message-circle-dashed-check`
 	static public let message_circle_dashed_check = LucideIcon(identifier: "message-circle-dashed-check")
 
+	/// `message-circle-exclamation-point`
+	static public let message_circle_exclamation_point = LucideIcon(identifier: "message-circle-exclamation-point")
+
 	/// `message-circle-heart`
 	static public let message_circle_heart = LucideIcon(identifier: "message-circle-heart")
 
@@ -3479,9 +3503,6 @@ extension LucideIcon {
 	/// `message-circle-text`
 	static public let message_circle_text = LucideIcon(identifier: "message-circle-text")
 
-	/// `message-circle-warning`
-	static public let message_circle_warning = LucideIcon(identifier: "message-circle-warning")
-
 	/// `message-circle-x`
 	static public let message_circle_x = LucideIcon(identifier: "message-circle-x")
 
@@ -3502,6 +3523,9 @@ extension LucideIcon {
 
 	/// `message-square-dot`
 	static public let message_square_dot = LucideIcon(identifier: "message-square-dot")
+
+	/// `message-square-exclamation-point`
+	static public let message_square_exclamation_point = LucideIcon(identifier: "message-square-exclamation-point")
 
 	/// `message-square-heart`
 	static public let message_square_heart = LucideIcon(identifier: "message-square-heart")
@@ -3529,9 +3553,6 @@ extension LucideIcon {
 
 	/// `message-square-text`
 	static public let message_square_text = LucideIcon(identifier: "message-square-text")
-
-	/// `message-square-warning`
-	static public let message_square_warning = LucideIcon(identifier: "message-square-warning")
 
 	/// `message-square-x`
 	static public let message_square_x = LucideIcon(identifier: "message-square-x")
@@ -3655,6 +3676,9 @@ extension LucideIcon {
 
 	/// `mop-sparkles`
 	static public let mop_sparkles = LucideIcon(identifier: "mop-sparkles")
+
+	/// `moped`
+	static public let moped = LucideIcon(identifier: "moped")
 
 	/// `mosque`
 	static public let mosque = LucideIcon(identifier: "mosque")
@@ -3803,8 +3827,8 @@ extension LucideIcon {
 	/// `octagon`
 	static public let octagon = LucideIcon(identifier: "octagon")
 
-	/// `octagon-alert`
-	static public let octagon_alert = LucideIcon(identifier: "octagon-alert")
+	/// `octagon-exclamation-point`
+	static public let octagon_exclamation_point = LucideIcon(identifier: "octagon-exclamation-point")
 
 	/// `octagon-minus`
 	static public let octagon_minus = LucideIcon(identifier: "octagon-minus")
@@ -3817,6 +3841,9 @@ extension LucideIcon {
 
 	/// `omega`
 	static public let omega = LucideIcon(identifier: "omega")
+
+	/// `opacity`
+	static public let opacity = LucideIcon(identifier: "opacity")
 
 	/// `option`
 	static public let option = LucideIcon(identifier: "option")
@@ -3842,8 +3869,14 @@ extension LucideIcon {
 	/// `package-open`
 	static public let package_open = LucideIcon(identifier: "package-open")
 
+	/// `package-pen`
+	static public let package_pen = LucideIcon(identifier: "package-pen")
+
 	/// `package-plus`
 	static public let package_plus = LucideIcon(identifier: "package-plus")
+
+	/// `package-question-mark`
+	static public let package_question_mark = LucideIcon(identifier: "package-question-mark")
 
 	/// `package-search`
 	static public let package_search = LucideIcon(identifier: "package-search")
@@ -4511,14 +4544,14 @@ extension LucideIcon {
 	/// `search`
 	static public let search = LucideIcon(identifier: "search")
 
-	/// `search-alert`
-	static public let search_alert = LucideIcon(identifier: "search-alert")
-
 	/// `search-check`
 	static public let search_check = LucideIcon(identifier: "search-check")
 
 	/// `search-code`
 	static public let search_code = LucideIcon(identifier: "search-code")
+
+	/// `search-exclamation-point`
+	static public let search_exclamation_point = LucideIcon(identifier: "search-exclamation-point")
 
 	/// `search-slash`
 	static public let search_slash = LucideIcon(identifier: "search-slash")
@@ -4589,9 +4622,6 @@ extension LucideIcon {
 	/// `shield`
 	static public let shield = LucideIcon(identifier: "shield")
 
-	/// `shield-alert`
-	static public let shield_alert = LucideIcon(identifier: "shield-alert")
-
 	/// `shield-ban`
 	static public let shield_ban = LucideIcon(identifier: "shield-ban")
 
@@ -4606,6 +4636,9 @@ extension LucideIcon {
 
 	/// `shield-ellipsis`
 	static public let shield_ellipsis = LucideIcon(identifier: "shield-ellipsis")
+
+	/// `shield-exclamation-point`
+	static public let shield_exclamation_point = LucideIcon(identifier: "shield-exclamation-point")
 
 	/// `shield-half`
 	static public let shield_half = LucideIcon(identifier: "shield-half")
@@ -4939,6 +4972,9 @@ extension LucideIcon {
 
 	/// `square-dashed-plus`
 	static public let square_dashed_plus = LucideIcon(identifier: "square-dashed-plus")
+
+	/// `square-dashed-search`
+	static public let square_dashed_search = LucideIcon(identifier: "square-dashed-search")
 
 	/// `square-dashed-text`
 	static public let square_dashed_text = LucideIcon(identifier: "square-dashed-text")
@@ -5594,11 +5630,11 @@ extension LucideIcon {
 	/// `triangle`
 	static public let triangle = LucideIcon(identifier: "triangle")
 
-	/// `triangle-alert`
-	static public let triangle_alert = LucideIcon(identifier: "triangle-alert")
-
 	/// `triangle-dashed`
 	static public let triangle_dashed = LucideIcon(identifier: "triangle-dashed")
+
+	/// `triangle-exclamation-point`
+	static public let triangle_exclamation_point = LucideIcon(identifier: "triangle-exclamation-point")
 
 	/// `triangle-right`
 	static public let triangle_right = LucideIcon(identifier: "triangle-right")
@@ -5702,6 +5738,9 @@ extension LucideIcon {
 	/// `user-cog`
 	static public let user_cog = LucideIcon(identifier: "user-cog")
 
+	/// `user-exclamation-point`
+	static public let user_exclamation_point = LucideIcon(identifier: "user-exclamation-point")
+
 	/// `user-group`
 	static public let user_group = LucideIcon(identifier: "user-group")
 
@@ -5731,6 +5770,9 @@ extension LucideIcon {
 
 	/// `user-round-cog`
 	static public let user_round_cog = LucideIcon(identifier: "user-round-cog")
+
+	/// `user-round-exclamation-point`
+	static public let user_round_exclamation_point = LucideIcon(identifier: "user-round-exclamation-point")
 
 	/// `user-round-group`
 	static public let user_round_group = LucideIcon(identifier: "user-round-group")

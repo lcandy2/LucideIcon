@@ -302,6 +302,9 @@ extension LucideIcon {
 	/// `asterisk`
 	static public let asterisk = LucideIcon(identifier: "asterisk")
 
+	/// `asterism`
+	static public let asterism = LucideIcon(identifier: "asterism")
+
 	/// `astroid`
 	static public let astroid = LucideIcon(identifier: "astroid")
 
@@ -932,6 +935,9 @@ extension LucideIcon {
 	/// `cannabis-off`
 	static public let cannabis_off = LucideIcon(identifier: "cannabis-off")
 
+	/// `cap`
+	static public let cap = LucideIcon(identifier: "cap")
+
 	/// `captions`
 	static public let captions = LucideIcon(identifier: "captions")
 
@@ -1082,6 +1088,9 @@ extension LucideIcon {
 	/// `check-line`
 	static public let check_line = LucideIcon(identifier: "check-line")
 
+	/// `cheese`
+	static public let cheese = LucideIcon(identifier: "cheese")
+
 	/// `chef-hat`
 	static public let chef_hat = LucideIcon(identifier: "chef-hat")
 
@@ -1166,26 +1175,26 @@ extension LucideIcon {
 	/// `circle-arrow-down`
 	static public let circle_arrow_down = LucideIcon(identifier: "circle-arrow-down")
 
+	/// `circle-arrow-down-left-exit`
+	static public let circle_arrow_down_left_exit = LucideIcon(identifier: "circle-arrow-down-left-exit")
+
+	/// `circle-arrow-down-right-exit`
+	static public let circle_arrow_down_right_exit = LucideIcon(identifier: "circle-arrow-down-right-exit")
+
 	/// `circle-arrow-left`
 	static public let circle_arrow_left = LucideIcon(identifier: "circle-arrow-left")
-
-	/// `circle-arrow-out-down-left`
-	static public let circle_arrow_out_down_left = LucideIcon(identifier: "circle-arrow-out-down-left")
-
-	/// `circle-arrow-out-down-right`
-	static public let circle_arrow_out_down_right = LucideIcon(identifier: "circle-arrow-out-down-right")
-
-	/// `circle-arrow-out-up-left`
-	static public let circle_arrow_out_up_left = LucideIcon(identifier: "circle-arrow-out-up-left")
-
-	/// `circle-arrow-out-up-right`
-	static public let circle_arrow_out_up_right = LucideIcon(identifier: "circle-arrow-out-up-right")
 
 	/// `circle-arrow-right`
 	static public let circle_arrow_right = LucideIcon(identifier: "circle-arrow-right")
 
 	/// `circle-arrow-up`
 	static public let circle_arrow_up = LucideIcon(identifier: "circle-arrow-up")
+
+	/// `circle-arrow-up-left-exit`
+	static public let circle_arrow_up_left_exit = LucideIcon(identifier: "circle-arrow-up-left-exit")
+
+	/// `circle-arrow-up-right-exit`
+	static public let circle_arrow_up_right_exit = LucideIcon(identifier: "circle-arrow-up-right-exit")
 
 	/// `circle-check`
 	static public let circle_check = LucideIcon(identifier: "circle-check")
@@ -2018,6 +2027,9 @@ extension LucideIcon {
 	/// `ev-charger`
 	static public let ev_charger = LucideIcon(identifier: "ev-charger")
 
+	/// `exclamation-mark`
+	static public let exclamation_mark = LucideIcon(identifier: "exclamation-mark")
+
 	/// `expand`
 	static public let expand = LucideIcon(identifier: "expand")
 
@@ -2606,6 +2618,9 @@ extension LucideIcon {
 	/// `graph-hub`
 	static public let graph_hub = LucideIcon(identifier: "graph-hub")
 
+	/// `graph-ring`
+	static public let graph_ring = LucideIcon(identifier: "graph-ring")
+
 	/// `graph-star`
 	static public let graph_star = LucideIcon(identifier: "graph-star")
 
@@ -3025,6 +3040,9 @@ extension LucideIcon {
 
 	/// `layout-grid-circles`
 	static public let layout_grid_circles = LucideIcon(identifier: "layout-grid-circles")
+
+	/// `layout-grid-plus`
+	static public let layout_grid_plus = LucideIcon(identifier: "layout-grid-plus")
 
 	/// `layout-list`
 	static public let layout_list = LucideIcon(identifier: "layout-list")
@@ -3686,6 +3704,9 @@ extension LucideIcon {
 	/// `motorbike`
 	static public let motorbike = LucideIcon(identifier: "motorbike")
 
+	/// `mound-shovel`
+	static public let mound_shovel = LucideIcon(identifier: "mound-shovel")
+
 	/// `mountain`
 	static public let mountain = LucideIcon(identifier: "mountain")
 
@@ -4205,6 +4226,9 @@ extension LucideIcon {
 	/// `qr-code`
 	static public let qr_code = LucideIcon(identifier: "qr-code")
 
+	/// `question-mark`
+	static public let question_mark = LucideIcon(identifier: "question-mark")
+
 	/// `quote`
 	static public let quote = LucideIcon(identifier: "quote")
 
@@ -4402,6 +4426,9 @@ extension LucideIcon {
 
 	/// `route`
 	static public let route = LucideIcon(identifier: "route")
+
+	/// `route-arrow-right`
+	static public let route_arrow_right = LucideIcon(identifier: "route-arrow-right")
 
 	/// `route-off`
 	static public let route_off = LucideIcon(identifier: "route-off")
@@ -4865,26 +4892,38 @@ extension LucideIcon {
 	/// `square-arrow-down`
 	static public let square_arrow_down = LucideIcon(identifier: "square-arrow-down")
 
+	/// `square-arrow-down-enter`
+	static public let square_arrow_down_enter = LucideIcon(identifier: "square-arrow-down-enter")
+
+	/// `square-arrow-down-exit`
+	static public let square_arrow_down_exit = LucideIcon(identifier: "square-arrow-down-exit")
+
 	/// `square-arrow-down-left`
 	static public let square_arrow_down_left = LucideIcon(identifier: "square-arrow-down-left")
+
+	/// `square-arrow-down-left-enter`
+	static public let square_arrow_down_left_enter = LucideIcon(identifier: "square-arrow-down-left-enter")
+
+	/// `square-arrow-down-left-exit`
+	static public let square_arrow_down_left_exit = LucideIcon(identifier: "square-arrow-down-left-exit")
 
 	/// `square-arrow-down-right`
 	static public let square_arrow_down_right = LucideIcon(identifier: "square-arrow-down-right")
 
+	/// `square-arrow-down-right-enter`
+	static public let square_arrow_down_right_enter = LucideIcon(identifier: "square-arrow-down-right-enter")
+
+	/// `square-arrow-down-right-exit`
+	static public let square_arrow_down_right_exit = LucideIcon(identifier: "square-arrow-down-right-exit")
+
 	/// `square-arrow-left`
 	static public let square_arrow_left = LucideIcon(identifier: "square-arrow-left")
 
-	/// `square-arrow-out-down-left`
-	static public let square_arrow_out_down_left = LucideIcon(identifier: "square-arrow-out-down-left")
+	/// `square-arrow-left-enter`
+	static public let square_arrow_left_enter = LucideIcon(identifier: "square-arrow-left-enter")
 
-	/// `square-arrow-out-down-right`
-	static public let square_arrow_out_down_right = LucideIcon(identifier: "square-arrow-out-down-right")
-
-	/// `square-arrow-out-up-left`
-	static public let square_arrow_out_up_left = LucideIcon(identifier: "square-arrow-out-up-left")
-
-	/// `square-arrow-out-up-right`
-	static public let square_arrow_out_up_right = LucideIcon(identifier: "square-arrow-out-up-right")
+	/// `square-arrow-left-exit`
+	static public let square_arrow_left_exit = LucideIcon(identifier: "square-arrow-left-exit")
 
 	/// `square-arrow-right`
 	static public let square_arrow_right = LucideIcon(identifier: "square-arrow-right")
@@ -4898,11 +4937,29 @@ extension LucideIcon {
 	/// `square-arrow-up`
 	static public let square_arrow_up = LucideIcon(identifier: "square-arrow-up")
 
+	/// `square-arrow-up-enter`
+	static public let square_arrow_up_enter = LucideIcon(identifier: "square-arrow-up-enter")
+
+	/// `square-arrow-up-exit`
+	static public let square_arrow_up_exit = LucideIcon(identifier: "square-arrow-up-exit")
+
 	/// `square-arrow-up-left`
 	static public let square_arrow_up_left = LucideIcon(identifier: "square-arrow-up-left")
 
+	/// `square-arrow-up-left-enter`
+	static public let square_arrow_up_left_enter = LucideIcon(identifier: "square-arrow-up-left-enter")
+
+	/// `square-arrow-up-left-exit`
+	static public let square_arrow_up_left_exit = LucideIcon(identifier: "square-arrow-up-left-exit")
+
 	/// `square-arrow-up-right`
 	static public let square_arrow_up_right = LucideIcon(identifier: "square-arrow-up-right")
+
+	/// `square-arrow-up-right-enter`
+	static public let square_arrow_up_right_enter = LucideIcon(identifier: "square-arrow-up-right-enter")
+
+	/// `square-arrow-up-right-exit`
+	static public let square_arrow_up_right_exit = LucideIcon(identifier: "square-arrow-up-right-exit")
 
 	/// `square-asterisk`
 	static public let square_asterisk = LucideIcon(identifier: "square-asterisk")
@@ -5297,6 +5354,24 @@ extension LucideIcon {
 	/// `strikethrough`
 	static public let strikethrough = LucideIcon(identifier: "strikethrough")
 
+	/// `stroke-line-cap-butt`
+	static public let stroke_line_cap_butt = LucideIcon(identifier: "stroke-line-cap-butt")
+
+	/// `stroke-line-cap-round`
+	static public let stroke_line_cap_round = LucideIcon(identifier: "stroke-line-cap-round")
+
+	/// `stroke-line-cap-square`
+	static public let stroke_line_cap_square = LucideIcon(identifier: "stroke-line-cap-square")
+
+	/// `stroke-line-join-bevel`
+	static public let stroke_line_join_bevel = LucideIcon(identifier: "stroke-line-join-bevel")
+
+	/// `stroke-line-join-miter`
+	static public let stroke_line_join_miter = LucideIcon(identifier: "stroke-line-join-miter")
+
+	/// `stroke-line-join-round`
+	static public let stroke_line_join_round = LucideIcon(identifier: "stroke-line-join-round")
+
 	/// `subscript`
 	static public let `subscript` = LucideIcon(identifier: "subscript")
 
@@ -5461,6 +5536,9 @@ extension LucideIcon {
 
 	/// `text-initial`
 	static public let text_initial = LucideIcon(identifier: "text-initial")
+
+	/// `text-pen`
+	static public let text_pen = LucideIcon(identifier: "text-pen")
 
 	/// `text-quote`
 	static public let text_quote = LucideIcon(identifier: "text-quote")

@@ -296,6 +296,30 @@ extension LucideIcon {
 	/// `arrow-up-z-a`
 	static public let arrow_up_z_a = LucideIcon(identifier: "arrow-up-z-a")
 
+	/// `arrows-from-axis-dashed-horizontal`
+	static public let arrows_from_axis_dashed_horizontal = LucideIcon(identifier: "arrows-from-axis-dashed-horizontal")
+
+	/// `arrows-from-axis-dashed-vertical`
+	static public let arrows_from_axis_dashed_vertical = LucideIcon(identifier: "arrows-from-axis-dashed-vertical")
+
+	/// `arrows-from-axis-horizontal`
+	static public let arrows_from_axis_horizontal = LucideIcon(identifier: "arrows-from-axis-horizontal")
+
+	/// `arrows-from-axis-vertical`
+	static public let arrows_from_axis_vertical = LucideIcon(identifier: "arrows-from-axis-vertical")
+
+	/// `arrows-to-axis-dashed-horizontal`
+	static public let arrows_to_axis_dashed_horizontal = LucideIcon(identifier: "arrows-to-axis-dashed-horizontal")
+
+	/// `arrows-to-axis-dashed-vertical`
+	static public let arrows_to_axis_dashed_vertical = LucideIcon(identifier: "arrows-to-axis-dashed-vertical")
+
+	/// `arrows-to-axis-horizontal`
+	static public let arrows_to_axis_horizontal = LucideIcon(identifier: "arrows-to-axis-horizontal")
+
+	/// `arrows-to-axis-vertical`
+	static public let arrows_to_axis_vertical = LucideIcon(identifier: "arrows-to-axis-vertical")
+
 	/// `arrows-up-from-line`
 	static public let arrows_up_from_line = LucideIcon(identifier: "arrows-up-from-line")
 
@@ -704,11 +728,23 @@ extension LucideIcon {
 	/// `bot`
 	static public let bot = LucideIcon(identifier: "bot")
 
+	/// `bot-check`
+	static public let bot_check = LucideIcon(identifier: "bot-check")
+
 	/// `bot-message-square`
 	static public let bot_message_square = LucideIcon(identifier: "bot-message-square")
 
+	/// `bot-minus`
+	static public let bot_minus = LucideIcon(identifier: "bot-minus")
+
 	/// `bot-off`
 	static public let bot_off = LucideIcon(identifier: "bot-off")
+
+	/// `bot-plus`
+	static public let bot_plus = LucideIcon(identifier: "bot-plus")
+
+	/// `bot-x`
+	static public let bot_x = LucideIcon(identifier: "bot-x")
 
 	/// `bottle-wine`
 	static public let bottle_wine = LucideIcon(identifier: "bottle-wine")
@@ -718,6 +754,9 @@ extension LucideIcon {
 
 	/// `box`
 	static public let box = LucideIcon(identifier: "box")
+
+	/// `box-dashed`
+	static public let box_dashed = LucideIcon(identifier: "box-dashed")
 
 	/// `boxes`
 	static public let boxes = LucideIcon(identifier: "boxes")
@@ -962,6 +1001,30 @@ extension LucideIcon {
 	/// `card-sim`
 	static public let card_sim = LucideIcon(identifier: "card-sim")
 
+	/// `carets-from-axis-dashed-horizontal`
+	static public let carets_from_axis_dashed_horizontal = LucideIcon(identifier: "carets-from-axis-dashed-horizontal")
+
+	/// `carets-from-axis-dashed-vertical`
+	static public let carets_from_axis_dashed_vertical = LucideIcon(identifier: "carets-from-axis-dashed-vertical")
+
+	/// `carets-from-axis-horizontal`
+	static public let carets_from_axis_horizontal = LucideIcon(identifier: "carets-from-axis-horizontal")
+
+	/// `carets-from-axis-vertical`
+	static public let carets_from_axis_vertical = LucideIcon(identifier: "carets-from-axis-vertical")
+
+	/// `carets-to-axis-dashed-horizontal`
+	static public let carets_to_axis_dashed_horizontal = LucideIcon(identifier: "carets-to-axis-dashed-horizontal")
+
+	/// `carets-to-axis-dashed-vertical`
+	static public let carets_to_axis_dashed_vertical = LucideIcon(identifier: "carets-to-axis-dashed-vertical")
+
+	/// `carets-to-axis-horizontal`
+	static public let carets_to_axis_horizontal = LucideIcon(identifier: "carets-to-axis-horizontal")
+
+	/// `carets-to-axis-vertical`
+	static public let carets_to_axis_vertical = LucideIcon(identifier: "carets-to-axis-vertical")
+
 	/// `carrot`
 	static public let carrot = LucideIcon(identifier: "carrot")
 
@@ -1139,6 +1202,18 @@ extension LucideIcon {
 	/// `chevrons-down-up`
 	static public let chevrons_down_up = LucideIcon(identifier: "chevrons-down-up")
 
+	/// `chevrons-from-axis-dashed-horizontal`
+	static public let chevrons_from_axis_dashed_horizontal = LucideIcon(identifier: "chevrons-from-axis-dashed-horizontal")
+
+	/// `chevrons-from-axis-dashed-vertical`
+	static public let chevrons_from_axis_dashed_vertical = LucideIcon(identifier: "chevrons-from-axis-dashed-vertical")
+
+	/// `chevrons-from-axis-horizontal`
+	static public let chevrons_from_axis_horizontal = LucideIcon(identifier: "chevrons-from-axis-horizontal")
+
+	/// `chevrons-from-axis-vertical`
+	static public let chevrons_from_axis_vertical = LucideIcon(identifier: "chevrons-from-axis-vertical")
+
 	/// `chevrons-left`
 	static public let chevrons_left = LucideIcon(identifier: "chevrons-left")
 
@@ -1154,11 +1229,26 @@ extension LucideIcon {
 	/// `chevrons-right-left`
 	static public let chevrons_right_left = LucideIcon(identifier: "chevrons-right-left")
 
+	/// `chevrons-to-axis-dashed-horizontal`
+	static public let chevrons_to_axis_dashed_horizontal = LucideIcon(identifier: "chevrons-to-axis-dashed-horizontal")
+
+	/// `chevrons-to-axis-dashed-vertical`
+	static public let chevrons_to_axis_dashed_vertical = LucideIcon(identifier: "chevrons-to-axis-dashed-vertical")
+
+	/// `chevrons-to-axis-horizontal`
+	static public let chevrons_to_axis_horizontal = LucideIcon(identifier: "chevrons-to-axis-horizontal")
+
+	/// `chevrons-to-axis-vertical`
+	static public let chevrons_to_axis_vertical = LucideIcon(identifier: "chevrons-to-axis-vertical")
+
 	/// `chevrons-up`
 	static public let chevrons_up = LucideIcon(identifier: "chevrons-up")
 
 	/// `chevrons-up-down`
 	static public let chevrons_up_down = LucideIcon(identifier: "chevrons-up-down")
+
+	/// `chocolate-bar`
+	static public let chocolate_bar = LucideIcon(identifier: "chocolate-bar")
 
 	/// `church`
 	static public let church = LucideIcon(identifier: "church")
@@ -1168,6 +1258,9 @@ extension LucideIcon {
 
 	/// `cigarette-off`
 	static public let cigarette_off = LucideIcon(identifier: "cigarette-off")
+
+	/// `cinema`
+	static public let cinema = LucideIcon(identifier: "cinema")
 
 	/// `circle`
 	static public let circle = LucideIcon(identifier: "circle")
@@ -1195,6 +1288,9 @@ extension LucideIcon {
 
 	/// `circle-arrow-up-right-exit`
 	static public let circle_arrow_up_right_exit = LucideIcon(identifier: "circle-arrow-up-right-exit")
+
+	/// `circle-bounce`
+	static public let circle_bounce = LucideIcon(identifier: "circle-bounce")
 
 	/// `circle-check`
 	static public let circle_check = LucideIcon(identifier: "circle-check")
@@ -1364,6 +1460,9 @@ extension LucideIcon {
 	/// `circle-percent`
 	static public let circle_percent = LucideIcon(identifier: "circle-percent")
 
+	/// `circle-person-arms-spread`
+	static public let circle_person_arms_spread = LucideIcon(identifier: "circle-person-arms-spread")
+
 	/// `circle-pile`
 	static public let circle_pile = LucideIcon(identifier: "circle-pile")
 
@@ -1390,6 +1489,9 @@ extension LucideIcon {
 
 	/// `circle-small`
 	static public let circle_small = LucideIcon(identifier: "circle-small")
+
+	/// `circle-speed-lines`
+	static public let circle_speed_lines = LucideIcon(identifier: "circle-speed-lines")
 
 	/// `circle-star`
 	static public let circle_star = LucideIcon(identifier: "circle-star")
@@ -1820,6 +1922,9 @@ extension LucideIcon {
 	/// `diagram-flow-vertical`
 	static public let diagram_flow_vertical = LucideIcon(identifier: "diagram-flow-vertical")
 
+	/// `diagram-sankey`
+	static public let diagram_sankey = LucideIcon(identifier: "diagram-sankey")
+
 	/// `diameter`
 	static public let diameter = LucideIcon(identifier: "diameter")
 
@@ -1885,6 +1990,9 @@ extension LucideIcon {
 
 	/// `dog`
 	static public let dog = LucideIcon(identifier: "dog")
+
+	/// `doghouse`
+	static public let doghouse = LucideIcon(identifier: "doghouse")
 
 	/// `dollar-sign`
 	static public let dollar_sign = LucideIcon(identifier: "dollar-sign")
@@ -2327,12 +2435,6 @@ extension LucideIcon {
 	/// `focus`
 	static public let focus = LucideIcon(identifier: "focus")
 
-	/// `fold-horizontal`
-	static public let fold_horizontal = LucideIcon(identifier: "fold-horizontal")
-
-	/// `fold-vertical`
-	static public let fold_vertical = LucideIcon(identifier: "fold-vertical")
-
 	/// `folder`
 	static public let folder = LucideIcon(identifier: "folder")
 
@@ -2387,6 +2489,9 @@ extension LucideIcon {
 	/// `folder-minus`
 	static public let folder_minus = LucideIcon(identifier: "folder-minus")
 
+	/// `folder-network`
+	static public let folder_network = LucideIcon(identifier: "folder-network")
+
 	/// `folder-open`
 	static public let folder_open = LucideIcon(identifier: "folder-open")
 
@@ -2401,6 +2506,9 @@ extension LucideIcon {
 
 	/// `folder-plus`
 	static public let folder_plus = LucideIcon(identifier: "folder-plus")
+
+	/// `folder-plus-corner`
+	static public let folder_plus_corner = LucideIcon(identifier: "folder-plus-corner")
 
 	/// `folder-root`
 	static public let folder_root = LucideIcon(identifier: "folder-root")
@@ -2618,6 +2726,9 @@ extension LucideIcon {
 	/// `graph-hub`
 	static public let graph_hub = LucideIcon(identifier: "graph-hub")
 
+	/// `graph-path`
+	static public let graph_path = LucideIcon(identifier: "graph-path")
+
 	/// `graph-ring`
 	static public let graph_ring = LucideIcon(identifier: "graph-ring")
 
@@ -2701,6 +2812,9 @@ extension LucideIcon {
 
 	/// `hand-platter`
 	static public let hand_platter = LucideIcon(identifier: "hand-platter")
+
+	/// `hand-truck`
+	static public let hand_truck = LucideIcon(identifier: "hand-truck")
 
 	/// `handbag`
 	static public let handbag = LucideIcon(identifier: "handbag")
@@ -2807,6 +2921,9 @@ extension LucideIcon {
 	/// `hockey-stick`
 	static public let hockey_stick = LucideIcon(identifier: "hockey-stick")
 
+	/// `hole`
+	static public let hole = LucideIcon(identifier: "hole")
+
 	/// `hop`
 	static public let hop = LucideIcon(identifier: "hop")
 
@@ -2830,6 +2947,12 @@ extension LucideIcon {
 
 	/// `house`
 	static public let house = LucideIcon(identifier: "house")
+
+	/// `house-arrow-left`
+	static public let house_arrow_left = LucideIcon(identifier: "house-arrow-left")
+
+	/// `house-arrow-right`
+	static public let house_arrow_right = LucideIcon(identifier: "house-arrow-right")
 
 	/// `house-cog`
 	static public let house_cog = LucideIcon(identifier: "house-cog")
@@ -2917,6 +3040,9 @@ extension LucideIcon {
 
 	/// `iv-bag`
 	static public let iv_bag = LucideIcon(identifier: "iv-bag")
+
+	/// `jacket`
+	static public let jacket = LucideIcon(identifier: "jacket")
 
 	/// `japanese-yen`
 	static public let japanese_yen = LucideIcon(identifier: "japanese-yen")
@@ -3812,6 +3938,9 @@ extension LucideIcon {
 	/// `nfc`
 	static public let nfc = LucideIcon(identifier: "nfc")
 
+	/// `nigerian-naira`
+	static public let nigerian_naira = LucideIcon(identifier: "nigerian-naira")
+
 	/// `non-binary`
 	static public let non_binary = LucideIcon(identifier: "non-binary")
 
@@ -3881,6 +4010,9 @@ extension LucideIcon {
 	/// `package-2`
 	static public let package_2 = LucideIcon(identifier: "package-2")
 
+	/// `package-arrow-bend-up-left`
+	static public let package_arrow_bend_up_left = LucideIcon(identifier: "package-arrow-bend-up-left")
+
 	/// `package-check`
 	static public let package_check = LucideIcon(identifier: "package-check")
 
@@ -3907,6 +4039,9 @@ extension LucideIcon {
 
 	/// `paint-bucket`
 	static public let paint_bucket = LucideIcon(identifier: "paint-bucket")
+
+	/// `paint-gun`
+	static public let paint_gun = LucideIcon(identifier: "paint-gun")
 
 	/// `paint-roller`
 	static public let paint_roller = LucideIcon(identifier: "paint-roller")
@@ -4309,6 +4444,9 @@ extension LucideIcon {
 
 	/// `rectangle-horizontal`
 	static public let rectangle_horizontal = LucideIcon(identifier: "rectangle-horizontal")
+
+	/// `rectangle-landscape-play`
+	static public let rectangle_landscape_play = LucideIcon(identifier: "rectangle-landscape-play")
 
 	/// `rectangle-vertical`
 	static public let rectangle_vertical = LucideIcon(identifier: "rectangle-vertical")
@@ -4964,17 +5102,23 @@ extension LucideIcon {
 	/// `square-asterisk`
 	static public let square_asterisk = LucideIcon(identifier: "square-asterisk")
 
+	/// `square-axis-dashed-horizontal`
+	static public let square_axis_dashed_horizontal = LucideIcon(identifier: "square-axis-dashed-horizontal")
+
+	/// `square-axis-dashed-vertical`
+	static public let square_axis_dashed_vertical = LucideIcon(identifier: "square-axis-dashed-vertical")
+
+	/// `square-axis-horizontal`
+	static public let square_axis_horizontal = LucideIcon(identifier: "square-axis-horizontal")
+
+	/// `square-axis-vertical`
+	static public let square_axis_vertical = LucideIcon(identifier: "square-axis-vertical")
+
 	/// `square-bookmark`
 	static public let square_bookmark = LucideIcon(identifier: "square-bookmark")
 
 	/// `square-bottom-dashed-scissors`
 	static public let square_bottom_dashed_scissors = LucideIcon(identifier: "square-bottom-dashed-scissors")
-
-	/// `square-centerline-dashed-horizontal`
-	static public let square_centerline_dashed_horizontal = LucideIcon(identifier: "square-centerline-dashed-horizontal")
-
-	/// `square-centerline-dashed-vertical`
-	static public let square_centerline_dashed_vertical = LucideIcon(identifier: "square-centerline-dashed-vertical")
 
 	/// `square-chart-gantt`
 	static public let square_chart_gantt = LucideIcon(identifier: "square-chart-gantt")
@@ -5372,6 +5516,9 @@ extension LucideIcon {
 	/// `stroke-line-join-round`
 	static public let stroke_line_join_round = LucideIcon(identifier: "stroke-line-join-round")
 
+	/// `stroke-width`
+	static public let stroke_width = LucideIcon(identifier: "stroke-width")
+
 	/// `subscript`
 	static public let `subscript` = LucideIcon(identifier: "subscript")
 
@@ -5717,12 +5864,6 @@ extension LucideIcon {
 	/// `triangle-right`
 	static public let triangle_right = LucideIcon(identifier: "triangle-right")
 
-	/// `triangles-centerline-dashed-horizontal`
-	static public let triangles_centerline_dashed_horizontal = LucideIcon(identifier: "triangles-centerline-dashed-horizontal")
-
-	/// `triangles-centerline-dashed-vertical`
-	static public let triangles_centerline_dashed_vertical = LucideIcon(identifier: "triangles-centerline-dashed-vertical")
-
 	/// `trophy`
 	static public let trophy = LucideIcon(identifier: "trophy")
 
@@ -5776,12 +5917,6 @@ extension LucideIcon {
 
 	/// `undo-dot`
 	static public let undo_dot = LucideIcon(identifier: "undo-dot")
-
-	/// `unfold-horizontal`
-	static public let unfold_horizontal = LucideIcon(identifier: "unfold-horizontal")
-
-	/// `unfold-vertical`
-	static public let unfold_vertical = LucideIcon(identifier: "unfold-vertical")
 
 	/// `ungroup`
 	static public let ungroup = LucideIcon(identifier: "ungroup")
@@ -5845,6 +5980,9 @@ extension LucideIcon {
 
 	/// `user-round-check`
 	static public let user_round_check = LucideIcon(identifier: "user-round-check")
+
+	/// `user-round-clock`
+	static public let user_round_clock = LucideIcon(identifier: "user-round-clock")
 
 	/// `user-round-cog`
 	static public let user_round_cog = LucideIcon(identifier: "user-round-cog")
@@ -6007,6 +6145,9 @@ extension LucideIcon {
 
 	/// `warehouse`
 	static public let warehouse = LucideIcon(identifier: "warehouse")
+
+	/// `warehouse-waves`
+	static public let warehouse_waves = LucideIcon(identifier: "warehouse-waves")
 
 	/// `washing-machine`
 	static public let washing_machine = LucideIcon(identifier: "washing-machine")
